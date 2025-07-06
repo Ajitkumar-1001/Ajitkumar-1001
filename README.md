@@ -1,7 +1,7 @@
 <!-- Animated waving hand SVG -->
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ajitkumar-1001/ajitkumar-1001/main/wave.gif" width="40">
+ <img src="https://raw.githubusercontent.com/ajitkumar-1001/ajitkumar-1001/main/wave.gif" width="40">
 </p>
 
 <!-- Typing animation for intro using SVG -->
