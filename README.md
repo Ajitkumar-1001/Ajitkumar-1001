@@ -7,7 +7,7 @@
 <!-- Typing animation for intro using SVG -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=0078FF&center=false&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ajit+Kumar;Data+Science+Masters+Student;AI+%26+Machine+Learning+Enthusiast;Constant+Learner+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=0078FF&center=false&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ajit+Kumar;+Masters+Student;AI+%26+Machine+Learning+Enthusiast;Constant+Learner+%F0%9F%92%AB" alt="Typing SVG" />
 </h1>
 
 🎓Master's Student  
