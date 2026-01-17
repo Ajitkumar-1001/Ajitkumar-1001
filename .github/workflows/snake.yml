@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
     steps:
       - name: Generate snake SVG
