@@ -55,12 +55,14 @@ Currently pursuing my Master's in Data Science at the University at Buffalo, New
 ---
 
 ## 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajitkumar-1001&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170"/>
+  <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=ajitkumar-1001&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=86400" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitkumar-1001&theme=radical&hide_border=true" height="170"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitkumar-1001&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=ajitkumar-1001&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" height="150"/>
 </p>
 
 ---
