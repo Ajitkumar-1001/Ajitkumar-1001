@@ -1,106 +1,94 @@
-<!-- Hero Section -->
+<!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ajitkumar-1001/ajitkumar-1001/main/wave.gif" width="40" />
+  <img src="https://raw.githubusercontent.com/ajitkumar-1001/ajitkumar-1001/main/wave.gif" width="40"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=600&color=0078FF&center=true&vCenter=true&width=520&lines=Hi+there+%F0%9F%91%8B+I'm+Ajit+Kumar;MS+in+Data+Science+%40+UB;AI+%26+Machine+Learning+Engineer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2400&pause=600&color=0078FF&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Ajit+Kumar;MS+in+Data+Science+%40+University+at+Buffalo;AI+%26+Machine+Learning+Engineer;Building+Intelligent%2C+Scalable+Systems" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajitkumar-1001&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ajitkumar-1001&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/ajitkumar-1001?label=Followers&style=flat" />
 </p>
 
----
+<hr>
 
-## 🎓 About Me
-
-🎯 **Master’s student in Data Science** at the **University at Buffalo, New York**  
-🤖 Focused on **AI, Machine Learning, and Applied Data Science**  
-🚀 Passionate about building **production-grade ML systems** and intelligent applications  
-
-I enjoy transforming ideas into scalable AI solutions by combining **strong software engineering** with **machine learning and data-driven thinking**.
-
----
-
-## 💡 Interests & Focus Areas
-
-- Artificial Intelligence & Machine Learning  
-- Computer Vision & Natural Language Processing  
-- Data Analytics & Predictive Modeling  
-- MLOps, Model Deployment & Monitoring  
-
----
-
-## 🚀 Currently Working On
-
-- Hands-on projects in **Computer Vision, NLP, and ML systems**
-- Strengthening expertise in:
-  - **Python**
-  - **PyTorch / TensorFlow**
-  - **Scikit-learn**
-  - **Cloud & Deployment workflows**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Data
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### ML & AI
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### Tools & Cloud
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
+<!-- ===================== ABOUT ===================== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajitkumar-1001&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitkumar-1001&theme=radical" height="170"/>
+  <em>
+    🎓 Master’s student in <b>Data Science</b> at <b>University at Buffalo, NY</b><br>
+    🤖 Passionate about <b>AI, Machine Learning, and Applied ML Systems</b><br>
+    🚀 Focused on building <b>production-grade, scalable AI applications</b>
+  </em>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitkumar-1001&layout=compact&theme=radical" height="150"/>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"/>
+  <b><i>Learning. Building. Iterating.</i></b>
 </p>
 
----
+<hr>
 
-## 📌 What I’m Looking For
+<!-- ===================== FOCUS ===================== -->
+### 💡 What I Work On
+- Machine Learning & Deep Learning (CV, NLP)
+- End-to-end ML pipelines & deployment
+- Data analytics & predictive modeling
+- MLOps, monitoring & automation
 
-- 🤝 Collaborations on **AI / ML open-source projects**
-- 🎓 Internship or entry-level opportunities in **Data Science & ML**
-- 🌐 Networking with professionals and fellow learners
+<hr>
 
----
+<!-- ===================== TECH STACK ===================== -->
+### 🛠️ Languages, Frameworks & Tools
 
-## 🌱 Currently Learning
+<p align="left">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+</p>
 
-- Advanced Machine Learning & Deep Learning  
-- MLOps pipelines and model deployment  
-- Latest trends in AI research and applications  
+<hr>
 
----
+<!-- ===================== CURRENT ===================== -->
+### 🚀 Currently
+- Building AI/ML projects in **Computer Vision & NLP**
+- Strengthening **PyTorch, TensorFlow & MLOps**
+- Exploring scalable deployment patterns
 
-## 📫 Let’s Connect
+<hr>
 
-<p>
+<!-- ===================== GITHUB STATS ===================== -->
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajitkumar-1001&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ajitkumar-1001&theme=radical"/>
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitkumar-1001&layout=compact&theme=radical"/>
+</p>
+
+<hr>
+
+<!-- ===================== OPPORTUNITIES ===================== -->
+### 📌 Open To
+- 🤝 AI / ML open-source collaborations
+- 🎓 Internships & entry-level ML roles
+- 🌐 Networking with AI & data professionals
+
+<hr>
+
+<!-- ===================== CONNECT ===================== -->
+### 📫 Let’s Connect
+<p align="left">
   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -109,8 +97,6 @@ I enjoy transforming ideas into scalable AI solutions by combining **strong soft
   </a>
 </p>
 
----
-
 <p align="center">
-  🚀 <b>Let’s build impactful AI solutions together.</b>
+  🚀 <b>Let’s build intelligent systems that matter.</b>
 </p>
