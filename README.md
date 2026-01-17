@@ -86,16 +86,14 @@ I enjoy combining **strong software engineering principles** with **machine lear
 </p>
 
 
+
 ---
 
 ## 🐍 Contribution Snake
 
+<img src="https://raw.githubusercontent.com/ajitkumar-1001/ajitkumar-1001/output/github-contribution-grid-snake.svg" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ajitkumar-1001/ajitkumar-1001/output/github-contribution-grid-snake.svg" />
-</p>
 
----
 
 ## 🏆 GitHub Trophies
 
@@ -103,7 +101,7 @@ I enjoy combining **strong software engineering principles** with **machine lear
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ajitkumar-1001&theme=radical&no-frame=true&margin-w=15&row=1"/>
 </p>
----
+
 
 ## 🎯 What I’m Looking For
 
