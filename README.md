@@ -74,38 +74,35 @@ I enjoy combining **strong software engineering principles** with **machine lear
 
 ## 📈 GitHub Analytics
 
-<div align="center">
 
-| GitHub Stats | Streak |
-|-------------|--------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=ajitkumar-1001&show_icons=true&theme=radical&count_private=true&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajitkumar-1001&theme=radical&hide_border=true) |
 
-| Top Languages |
-|--------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitkumar-1001&layout=compact&theme=radical&hide_border=true) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajitkumar-1001&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitkumar-1001&theme=radical&hide_border=true" height="170"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitkumar-1001&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
+
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ajitkumar-1001/ajitkumar-1001/output/github-contribution-grid-snake.svg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ajitkumar-1001/ajitkumar-1001/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ajitkumar-1001&theme=radical&no-frame=true&margin-w=15"/>
-
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajitkumar-1001&theme=radical&no-frame=true&margin-w=15&row=1"/>
+</p>
 ---
 
 ## 🎯 What I’m Looking For
