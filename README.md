@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />
 
 <h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=600&color=0078FF&center=true&vCenter=true&width=720&lines=Hi+there+👋,+I'm+Ajit+Kumar;Master's+in+Data+Science+@+University+at+Buffalo;AI+%26+Machine+Learning+Enthusiast;Constant+Learner+💫" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=600&color=0078FF&center=true&vCenter=true&width=720&lines=Hi+there+👋,+I'm+Ajit+Kumar;Master's+in+Data+Science+@+University+at+Buffalo;AI+%26+Machine+Learning+Enthusiast;Constant+Learner+💫" />
 </h1>
 
 <img src="https://komarev.com/ghpvc/?username=ajitkumar-1001&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -33,6 +33,7 @@ Currently pursuing my Master's in Data Science at the University at Buffalo, New
 ---
 
 ## 🛠️ Skills & Tools
+
 <div align="center">
 
 | Languages & Data | ML & AI | Tools & Cloud |
@@ -54,34 +55,60 @@ Currently pursuing my Master's in Data Science at the University at Buffalo, New
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics (Stable Default)
 
-<p align="center">
-  <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=ajitkumar-1001&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitkumar-1001&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=ajitkumar-1001&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" height="150"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ajitkumar-1001/ajitkumar-1001/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 Highlights (Guaranteed to render)
+<!-- This "stable default" avoids broken-image icons by using shields that reliably render -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/ajitkumar-1001?label=Followers&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/ajitkumar-1001?label=Stars&style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/ajitkumar-1001/ajitkumar-1001?label=Last%20Commit&style=for-the-badge" />
 </p>
 
-<!-- OPTIONAL: Enable trophies only after you confirm the URL loads on your profile page.
+<!-- OPTIONAL: Enable these cards ONLY after you confirm they load for you without breaking.
+     If you still see broken icons, keep this commented out. -->
+<!--
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ajitkumar-1001&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=86400"
+    height="170"
+    alt="Ajit GitHub stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ajitkumar-1001&theme=radical&hide_border=true"
+    height="170"
+    alt="Ajit GitHub streak"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitkumar-1001&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400"
+    height="150"
+    alt="Ajit top languages"
+  />
+</p>
+-->
+
+---
+
+## 🐍 Contribution Snake (Will work after workflow below runs)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ajitkumar-1001/ajitkumar-1001/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🏆 Highlights (Guaranteed)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Builder-0078FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-Deployment-important?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Ready-success?style=for-the-badge" />
+</p>
+
+<!-- OPTIONAL: Trophies sometimes fail on GitHub profile renders.
+     Enable ONLY if you confirm it loads reliably for you. -->
+<!--
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ajitkumar-1001&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=6" />
@@ -105,6 +132,7 @@ Currently pursuing my Master's in Data Science at the University at Buffalo, New
 ---
 
 ## 📫 Let’s Connect
+
 <div align="center">
 
 | LinkedIn | Email |
