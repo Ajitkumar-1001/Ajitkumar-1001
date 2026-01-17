@@ -1,102 +1,141 @@
 <!-- ===================== HERO ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ajitkumar-1001/ajitkumar-1001/main/wave.gif" width="40"/>
-</p>
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2400&pause=600&color=0078FF&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Ajit+Kumar;MS+in+Data+Science+%40+University+at+Buffalo;AI+%26+Machine+Learning+Engineer;Building+Intelligent%2C+Scalable+Systems" />
+<img src="https://raw.githubusercontent.com/ajitkumar-1001/ajitkumar-1001/main/wave.gif" width="40"/>
+
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=600&color=0078FF&center=true&vCenter=true&width=720&lines=Hi+there+👋,+I'm+Ajit+Kumar;MS+in+Data+Science+%40+University+at+Buffalo;AI+%26+Machine+Learning+Engineer;Building+Production-Grade+AI+Systems" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajitkumar-1001&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/ajitkumar-1001?label=Followers&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ajitkumar-1001&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/ajitkumar-1001?label=Followers&style=flat" />
 
-<hr>
+</div>
 
-<!-- ===================== ABOUT ===================== -->
-<p align="center">
-  <em>
-    🎓 Master’s student in <b>Data Science</b> at <b>University at Buffalo, NY</b><br>
-    🤖 Passionate about <b>AI, Machine Learning, and Applied ML Systems</b><br>
-    🚀 Focused on building <b>production-grade, scalable AI applications</b>
-  </em>
-</p>
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"/>
-  <b><i>Learning. Building. Iterating.</i></b>
-</p>
+## 🎓 About Me
 
-<hr>
+🎯 **Master’s student in Data Science** at the **University at Buffalo, New York**  
+🤖 Passionate about **AI, Machine Learning, and Applied ML Systems**  
+🚀 Focused on building **scalable, production-ready, end-to-end AI solutions**
 
-<!-- ===================== FOCUS ===================== -->
-### 💡 What I Work On
-- Machine Learning & Deep Learning (CV, NLP)
-- End-to-end ML pipelines & deployment
-- Data analytics & predictive modeling
-- MLOps, monitoring & automation
+I enjoy combining **strong software engineering principles** with **machine learning** to deliver real-world impact.
 
-<hr>
+---
 
-<!-- ===================== TECH STACK ===================== -->
-### 🛠️ Languages, Frameworks & Tools
+## 💡 Core Interests
 
-<p align="left">
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"/>
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/>
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"/>
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"/>
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"/>
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-</p>
+- Artificial Intelligence & Machine Learning  
+- Computer Vision & Natural Language Processing  
+- Data Analytics & Predictive Modeling  
+- MLOps, Deployment & Model Monitoring  
 
-<hr>
+---
 
-<!-- ===================== CURRENT ===================== -->
-### 🚀 Currently
-- Building AI/ML projects in **Computer Vision & NLP**
-- Strengthening **PyTorch, TensorFlow & MLOps**
-- Exploring scalable deployment patterns
+## 🚀 Currently Working On
 
-<hr>
+- Hands-on projects in **Computer Vision, NLP, and Data Analytics**
+- Improving skills in:
+  - **Python**
+  - **PyTorch**
+  - **TensorFlow**
+  - **Scikit-learn**
+- Designing **end-to-end ML pipelines** with deployment focus
 
-<!-- ===================== GITHUB STATS ===================== -->
-### 📊 GitHub Analytics
+---
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajitkumar-1001&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ajitkumar-1001&theme=radical"/>
-</p>
+## 🛠️ Skills & Tools
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitkumar-1001&layout=compact&theme=radical"/>
-</p>
+<div align="center">
 
-<hr>
+| Languages & Data | ML & AI | Tools & Cloud |
+|-----------------|--------|---------------|
+| <img src="https://skillicons.dev/icons?i=python,r,postgresql" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /> | <img src="https://skillicons.dev/icons?i=github,docker,aws" /> |
 
-<!-- ===================== OPPORTUNITIES ===================== -->
-### 📌 Open To
-- 🤝 AI / ML open-source collaborations
-- 🎓 Internships & entry-level ML roles
-- 🌐 Networking with AI & data professionals
+</div>
 
-<hr>
+---
 
-<!-- ===================== CONNECT ===================== -->
-### 📫 Let’s Connect
-<p align="left">
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## ⭐ Featured Projects
 
-<p align="center">
-  🚀 <b>Let’s build intelligent systems that matter.</b>
-</p>
+<div align="center">
+
+| Project | Description |
+|-------|-------------|
+| **SmartLoanPred** | End-to-end ML loan approval system with FastAPI backend, React frontend, Docker, CI/CD, and LLM-powered insights |
+| **MIDAS** | Medical imaging platform using CNNs, Grad-CAM explainability, and Agentic RAG for clinical decision support |
+| **CovDet** | COVID & lung disease detection from X-ray images with explainable deep learning models |
+| **NYC Taxi MLOps** | Time-series demand prediction with feature store, MLflow, retraining pipelines, and monitoring dashboards |
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+| GitHub Stats | Streak |
+|-------------|--------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=ajitkumar-1001&show_icons=true&theme=radical&count_private=true&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajitkumar-1001&theme=radical&hide_border=true) |
+
+| Top Languages |
+|--------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitkumar-1001&layout=compact&theme=radical&hide_border=true) |
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ajitkumar-1001/ajitkumar-1001/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ajitkumar-1001&theme=radical&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+## 🎯 What I’m Looking For
+
+- 🤝 Collaborations on **AI / ML open-source projects**
+- 🎓 **Internship / Entry-level / New Grad roles** in AI & ML
+- 🌐 Connecting with **engineers, researchers, and builders**
+
+---
+
+## 🌱 Always Learning
+
+- Advanced Deep Learning & Model Optimization  
+- MLOps & scalable deployment architectures  
+- Latest trends in **AI research and applied ML**
+
+---
+
+## 📫 Let’s Connect
+
+<div align="center">
+
+| LinkedIn | Email |
+|--------|-------|
+| <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin"/></a> | <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail"/></a> |
+
+</div>
+
+---
+
+<div align="center">
+<b>Let’s build intelligent systems that make a real impact.</b> 🚀
+</div>
