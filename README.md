@@ -55,7 +55,7 @@ Currently pursuing my Master's in Data Science at the University at Buffalo, New
 
 ---
 
-## 📈 GitHub Analytics (Stable Default)
+## 📈 GitHub Analytics 
 
 <!-- This "stable default" avoids broken-image icons by using shields that reliably render -->
 <p align="center">
@@ -64,9 +64,7 @@ Currently pursuing my Master's in Data Science at the University at Buffalo, New
   <img src="https://img.shields.io/github/last-commit/ajitkumar-1001/ajitkumar-1001?label=Last%20Commit&style=for-the-badge" />
 </p>
 
-<!-- OPTIONAL: Enable these cards ONLY after you confirm they load for you without breaking.
-     If you still see broken icons, keep this commented out. -->
-<!--
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=ajitkumar-1001&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=86400"
@@ -86,11 +84,9 @@ Currently pursuing my Master's in Data Science at the University at Buffalo, New
     alt="Ajit top languages"
   />
 </p>
--->
 
----
 
-## 🐍 Contribution Snake (Will work after workflow below runs)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ajitkumar-1001/ajitkumar-1001/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -98,7 +94,7 @@ Currently pursuing my Master's in Data Science at the University at Buffalo, New
 
 ---
 
-## 🏆 Highlights (Guaranteed)
+## 🏆 Highlights 
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%2FML-Builder-0078FF?style=for-the-badge" />
