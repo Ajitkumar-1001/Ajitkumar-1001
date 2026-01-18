@@ -2,7 +2,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />
-Hello, I am Ajit, and I am currently under Construction 🚧
+Hello, I am Ajit or AK, and I am currently under Construction 🚧
 
 <br><br>
 
