@@ -2,7 +2,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />
-<h2>Hey there! I’m Ajit — but you can call me AK 👋</h2>
+<h2>Hey there! I’m Ajit 👋 — aka AK… though Ajit is the name I ship to production.</h2>
 
 🚧 <i>This profile is currently under construction.... with PR's and Review commits! </i> 🚧
 
