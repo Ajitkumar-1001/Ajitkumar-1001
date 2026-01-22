@@ -27,7 +27,7 @@
 
 ### 🎓 Master’s in Data Science — University at Buffalo, NY (2025)
 
-### New Year, New title: ### Graduate ! Yes , 100%
+### New Year, New title:  Graduate ! Yes , 99.99% with 0.01% of Obfuscation with Education
 # Same curiosity, fewer assignments, infinitely more side projects 🚀
 
 
