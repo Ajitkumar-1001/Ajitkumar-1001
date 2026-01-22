@@ -2,7 +2,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />
-<h2>Hey there! I’m Ajit 👋 — aka AK… though Ajit is the name I ship to production.</h2>
+<h1>Hey there! I’m Ajit 👋 — aka AK… though Ajit is the name I ship to production.</h1>
 
 🚧 <i>This profile is currently under construction.... with PR's and Review commits! </i> 🚧
 
@@ -27,8 +27,8 @@
 
 ### 🎓 Master’s in Data Science — University at Buffalo, NY (2025)
 
-**New Year, New title:** Graduate 🎉  
-Same curiosity, fewer assignments, infinitely more side projects 🚀
+### New Year, New title: ### Graduate ! Yes , 100%
+# Same curiosity, fewer assignments, infinitely more side projects 🚀
 
 
 ---
