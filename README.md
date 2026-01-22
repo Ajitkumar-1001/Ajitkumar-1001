@@ -19,7 +19,7 @@
 
 ---
 
-## 🎓 Master’s Student | Data Science
+## 🇺🇸 Traveled internationally to train a model called ‘AJIT’ — convergence achieved: Master’s degree
 
 <img align="right"
      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3Y2l3d2x5b3Z4dWZ0b2t1d2Y3c2N4dWJjZHNpNmM5bGJjZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"
@@ -27,7 +27,7 @@
 
 ### 🎓 Master’s in Data Science — University at Buffalo, NY (2025)
 
-**New Year, new title:** Graduate 🎉  
+**New Year, New title:** Graduate 🎉  
 Same curiosity, fewer assignments, infinitely more side projects 🚀
 
 
