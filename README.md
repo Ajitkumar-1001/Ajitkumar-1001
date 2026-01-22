@@ -12,7 +12,10 @@
 
 <br><br>
 
-<!-- Profile Views -->
+<i>If you ever feel useless, don’t worry — this counter exists and I still check it.</i> 👇
+
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=ajitkumar-1001&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
 </div>
