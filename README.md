@@ -46,6 +46,10 @@
 
 <br><br>
 
+<p align="center">
+  <img src="./metrics.svg" />
+</p>
+
 🕵️‍♂️ <i>This profile has many private repos, not because it’s secret…  
 but because of this quote,  "Keep it private until it becomes permanent/published".</i>  
 
