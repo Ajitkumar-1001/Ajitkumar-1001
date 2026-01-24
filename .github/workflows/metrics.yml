@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,12 +12,24 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      # Main “pretty” metrics card
+      - name: Metrics (main)
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Ajitkumar-1001
-          template: classic
+          template: minimal
           filename: metrics.svg
-          base: header, activity, repositories
+          base: header, activity
+          config_timezone: America/New_York
+
+          # Prettier + compact calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+          # Optional: small “habits” block (very clean)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
