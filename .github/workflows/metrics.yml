@@ -1,0 +1,23 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Ajitkumar-1001
+          template: classic
+          filename: metrics.svg
+          base: header, activity, repositories
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: year
