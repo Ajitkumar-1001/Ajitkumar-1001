@@ -12,7 +12,7 @@
 
 <br><br>
 
-<i>If you ever feel useless, don’t worry — this counter exists and I still check it.</i> 👇
+<i>If you ever feel useless, don’t worry this counter exists, think about it  and I still check it.</i> 👇
 
 <br>
 
