@@ -1,8 +1,8 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />
-<h1>Hey there! I’m Ajit 👋.</h1>
+<!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" /> -->
+<h1>Hey there! I’m Ajit 👋</h1>
 
 🚧 <i>This profile is currently under construction.... with PR's and Review commits! </i> 🚧
 
@@ -22,16 +22,16 @@
 
 ---
 
-## 🇺🇸 Traveled internationally to train a model called ‘AJIT’ — convergence achieved: Master’s degree
+<div align="center" > 🇺🇸 Traveled Internationally to train a model called ‘AJIT’ — convergence achieved: Master’s degree </div>
 
-<img align="right"
+<img align="center"
      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3Y2l3d2x5b3Z4dWZ0b2t1d2Y3c2N4dWJjZHNpNmM5bGJjZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"
      width="220"/>
 
 ### 🎓 Master’s in Data Science — University at Buffalo, NY (2025)
 
-### New Year, New title:  Graduate ! Yes , 99.99% with 0.01% of Obfuscation with Education
-# Same curiosity, fewer assignments, infinitely more side projects 🚀
+<div align="center"> New Year, New title:  Graduate ! Yes , 99.99% with 0.01% of Obfuscation with Education
+# Same curiosity, fewer assignments, infinitely more side projects </div>
 
 
 ---
