@@ -58,15 +58,15 @@ but because of this quote,  "Keep it private until it becomes permanent/publishe
 
 ## Developer Activity
 
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub metrics" />
-</p>
-
 <!-- <p align="center">
+  <img src="./metrics.svg" alt="GitHub metrics" />
+</p> -->
+
+ <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&area=true&hide_border=true&radius=10" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" alt="GitHub streak" />
-</p> -->
+</p>
 
