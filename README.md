@@ -58,15 +58,13 @@ but because of this quote,  "Keep it private until it becomes permanent/publishe
 
 ## Developer Activity
 
-<!-- <p align="center">
-  <img src="./metrics.svg" alt="GitHub metrics" />
-</p> -->
+![](https://github-readme-stats.vercel.app/api?username=Ajitkumar-1001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&area=true&hide_border=true&radius=10" alt="Contribution activity graph" />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=Ajitkumar-1001&theme=dark&hide_border=false)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" alt="GitHub streak" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitkumar-1001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=Ajitkumar-1001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![snake gif](https://github.com/Ajitkumar-1001/Ajitkumar-1001/blob/output/github-snake-dark.svg)
 
