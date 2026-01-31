@@ -66,5 +66,5 @@ but because of this quote,  "Keep it private until it becomes permanent/publishe
 
 ![](https://github-profile-trophy.vercel.app/?username=Ajitkumar-1001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![snake gif](https://github.com/Ajitkumar-1001/Ajitkumar-1001/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ajitkumar-1001/Ajitkumar-1001/blob/main/github-contribution-grid-snake.svg)
 
