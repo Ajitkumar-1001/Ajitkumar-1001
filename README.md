@@ -67,7 +67,9 @@ but because of this quote,  "Keep it private until it becomes permanent/publishe
 ![](https://github-profile-trophy.vercel.app/?username=Ajitkumar-1001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
+## Contribution Chart
+
 ![snake](https://raw.githubusercontent.com/Ajitkumar-1001/Ajitkumar-1001/output/github-snake-dark.svg)
 
-![snake gif](https://raw.githubusercontent.com/Ajitkumar-1001/Ajitkumar-1001/output/ocean.gif)
+
 
