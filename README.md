@@ -22,7 +22,7 @@
 
 ---
 
-<div align="center" > 🇺🇸 Traveled Internationally to train a model called ‘AJIT’ — convergence achieved: Master’s degree </div>
+<div align="center" >  <h1> 🇺🇸 Traveled Internationally to train a model called ‘AJIT’ — convergence achieved: Master’s degree </h1> </div>
 
 <!-- <img align="center"
      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3Y2l3d2x5b3Z4dWZ0b2t1d2Y3c2N4dWJjZHNpNmM5bGJjZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"
