@@ -14,6 +14,7 @@
 
 <i>If you ever feel useless, don’t worry this counter exists, think about it  and I still check it.</i> 👇
 
+<h3> <i> All that gliters are Gold and all these counts are not Real................., yet, i still check</i></h3>
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=ajitkumar-1001&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
