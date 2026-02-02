@@ -6,17 +6,16 @@
 
 <h1> 🚧 <i>This profile is currently under construction.... with PR's and Review commits! </i> 🚧 </h1>
 
-<br><br>
+
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZsN3Q1aG14ZW1rOWg4dDdlYjE1YjVqZ3FvZGF6bWl6bTRtZXRnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="280"/>
 
 <br><br>
 
-<br><br>
+
 <h2><i>If you ever feel useless, don’t worry this counter exists, think about it.</i></h2>
 
 <h3> <i> All that gliters are not Gold and all these counts are not Real................., yet, i still check</i></h3> 👇
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ajitkumar-1001&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
