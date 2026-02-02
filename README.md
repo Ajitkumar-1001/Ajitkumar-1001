@@ -45,13 +45,14 @@ Same curiosity. Fewer assignments. <em>Infinitely</em> more side projects.
 
 <br/><br/>
 
-<br>
+<div align="center">
 
 <strong>
      
 Let’s build something meaningful —<br/>
 or at least something that doesn’t crash in production.
 </strong>
+</div>
 
 </div>
 
