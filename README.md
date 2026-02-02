@@ -30,23 +30,27 @@
      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3Y2l3d2x5b3Z4dWZ0b2t1d2Y3c2N4dWJjZHNpNmM5bGJjZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"
      width="220"/> -->
 
-### Master’s in Data Science — University at Buffalo, NY (2025)
+### 🎓 Master’s in Data Science — University at Buffalo, NY (2025)
 
-<div align="center"> New Year, New title:  Graduate ! Yes , 99.99% with 0.01% of Obfuscation with Education.
-     Same curiosity, fewer assignments, infinitely more side projects </div>
-
+<div align="center">
+<strong>New year. New title. Officially a Graduate.</strong><br/>
+Same curiosity. Fewer assignments. <em>Infinitely</em> more side projects.
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ5dG5ydW9tbDg1NXp3dW5xZXJ3d3c2N2JwbmZ6ZHR0d2d3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ5dG5ydW9tbDg1NXp3dW5xZXJ3d3c2N2JwbmZ6ZHR0d2d3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180"/>
 
-<br><br>
+<br/><br/>
 
-<b>Let’s connect and build something meaningful — or at least something that doesn’t crash in production.</b>
+<strong>
+Let’s build something meaningful —<br/>
+or at least something that doesn’t crash in production.
+</strong>
 
-<br><br>
+</div>
 
 
 
