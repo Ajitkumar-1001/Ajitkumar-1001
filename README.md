@@ -15,7 +15,7 @@ Hey there! I’m Ajit (aka AK)
 <br/><br/>
 
 <p><em>If you ever feel useless, don’t worry — this counter exists.</em></p>
-<p><em>Not everything that glitters is gold, and not all counts are real… yet we still check.</em></p>
+<p><em>Not everything that glitters is gold, and not all counts are real… yet we still check.👇</em></p>
 
 <img 
   src="https://komarev.com/ghpvc/?username=ajitkumar-1001&label=Profile%20Views&color=0e75b6&style=flat" 
