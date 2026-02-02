@@ -35,7 +35,7 @@ Hey there! I’m Ajit (aka AK)
 
 ---
 <div align="center">
-### 🎓 Master’s in Data Science — University at Buffalo, NY (2025)
+<h1> <strong>🎓 Master’s in Data Science — University at Buffalo, NY (2025) </strong></h1>
 </div>
 <div align="center">
 <p><strong>New year. New title. Officially a Graduate.</strong></p>
@@ -57,21 +57,21 @@ or at least something that doesn’t crash in production.
 </div>
 
 ---
-
+<div align="center">
 🕵️‍♂️ <em>
 This profile contains several private repositories — not because they’re secret,  
 but because some things are best kept private until they’re ready to be published.
 </em>
 
-<div align="center">
-🔒 **Private Repositories:** 10+  
+
+🔒 Private Repositories: 10+  
 (Production systems, RAG pipelines, ML experiments, and client work)
 
-</div>
+
 
 🚀 <strong>Coming soon:</strong> projects, experiments, and a suspicious number of commits
 
-
+</div>
 
 ## Developer Activity
 
