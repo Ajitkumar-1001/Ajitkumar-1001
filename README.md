@@ -12,10 +12,10 @@
 
 <br><br>
 
-<h2><i>If you ever feel useless, don’t worry this counter exists, think about it.</i></h2>👇
+<h2><i>If you ever feel useless, don’t worry this counter exists, think about it.</i></h2>
 
 <h3> <i> All that gliters are not Gold and all these counts are not Real................., yet, i still check</i></h3>👇
-<br>
+
 
 <img src="https://komarev.com/ghpvc/?username=ajitkumar-1001&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
