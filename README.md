@@ -45,7 +45,10 @@ Same curiosity. Fewer assignments. <em>Infinitely</em> more side projects.
 
 <br/><br/>
 
+<br>
+
 <strong>
+     
 Let’s build something meaningful —<br/>
 or at least something that doesn’t crash in production.
 </strong>
