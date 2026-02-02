@@ -33,7 +33,7 @@
 ### 🎓 Master’s in Data Science — University at Buffalo, NY (2025)
 
 <div align="center">
-<strong>New year. New title. Officially a Graduate.</strong><br/>
+<strong><h1>New year. New title. Officially a Graduate.</h1></strong><br/>
 Same curiosity. Fewer assignments. <em>Infinitely</em> more side projects.
 </div>
 
