@@ -5,7 +5,7 @@ Hey there! I’m Ajit (aka AK)
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32" />
 </h1>
 
-<p><em>🚧 This profile is under construction — powered by PRs and review commits 🚧</em></p>
+<p><em>🚧 This profile is under construction powered by PRs and review commits 🚧</em></p>
 
 <img 
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZsN3Q1aG14ZW1rOWg4dDdlYjE1YjVqZ3FvZGF6bWl6bTRtZXRnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" 
@@ -14,8 +14,8 @@ Hey there! I’m Ajit (aka AK)
 
 <br/><br/>
 
-<p><em>If you ever feel useless, don’t worry — this counter exists.</em></p>
-<p><em>Not everything that glitters is gold, and not all counts are real… yet we still check.👇</em></p>
+<p><em>If you ever feel useless, don’t worry , this counter exists.</em></p>
+<p><em>Not everything that glitters is gold, and not all counts are real… yet I still check.👇</em></p>
 
 <img 
   src="https://komarev.com/ghpvc/?username=ajitkumar-1001&label=Profile%20Views&color=0e75b6&style=flat" 
@@ -34,9 +34,9 @@ Hey there! I’m Ajit (aka AK)
 </div>
 
 ---
-
+<div align="center">
 ### 🎓 Master’s in Data Science — University at Buffalo, NY (2025)
-
+</div>
 <div align="center">
 <p><strong>New year. New title. Officially a Graduate.</strong></p>
 <p>Same curiosity. Fewer assignments. <em>Infinitely</em> more side projects.</p>
@@ -62,6 +62,12 @@ or at least something that doesn’t crash in production.
 This profile contains several private repositories — not because they’re secret,  
 but because some things are best kept private until they’re ready to be published.
 </em>
+
+<div align="center">
+🔒 **Private Repositories:** 10+  
+(Production systems, RAG pipelines, ML experiments, and client work)
+
+</div>
 
 🚀 <strong>Coming soon:</strong> projects, experiments, and a suspicious number of commits
 
