@@ -74,7 +74,7 @@ but because some things are best kept private until they’re ready to be publis
 </div>
 
 ## Developer Activity
-
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Ajitkumar-1001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Ajitkumar-1001&theme=dark&hide_border=false)
@@ -82,6 +82,8 @@ but because some things are best kept private until they’re ready to be publis
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitkumar-1001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-profile-trophy.vercel.app/?username=Ajitkumar-1001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
 
 <div align="center">  <h1> <strong> GIT Eater Snake</strong></h1>    </div>
 
