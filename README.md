@@ -6,9 +6,9 @@
 
 ### I’m someone who
 
-- overthinks (in a good way)
-- enjoys building things from scratch
-- and is curious about how systems behave 
+**overthinks (in a good way)
+enjoys building things from scratch
+and is curious about how systems behave**
 
 Research ideas in → **production-grade systems out**  
 
