@@ -1,16 +1,17 @@
 <div align="center">
 
 # 👋 Hey, I’m Ajitkumar
-<img src="https://komarev.com/ghpvc/?username=Ajitkumar-1001&style=for-the-badge&color=blue"/>
 
+<img src="https://komarev.com/ghpvc/?username=Ajitkumar-1001&style=for-the-badge&color=blue" alt="profile views"/>
 
-I build AI systems that are **curious by design**,  
-**stubborn about correctness**,  
-and *slightly allergic to hallucinations*.
+### I build AI systems that  
+🧠 think before they speak  
+🛠️ survive production  
+🤖 and don’t hallucinate for fun  
 
-Most days, I turn research ideas into **production-ready systems**  
-using **Python, FastAPI, React/Next.js, Docker**,  
-and a *questionable number of configs*.
+Research ideas in → **production-grade systems out**  
+Powered by **Python, FastAPI, React/Next.js, Docker**  
+(and an irresponsible number of configs)
 
 </div>
 
@@ -18,40 +19,97 @@ and a *questionable number of configs*.
 
 <div align="center">
 
-## 🔭 What I’m Building
+## 🚀 What I’m Building (and occasionally debugging)
 
 </div>
 
-- **MIDAS** — a multi-agent, domain-restricted RAG system for dermatology Q&A and image analysis  
-- **Tutorly** — a reinforcement-learning powered tutoring platform that adapts *how* you learn  
-- **AskDocSite** — a secure, multi-tenant document intelligence platform (because PDFs deserve respect)  
-- End-to-end **full-stack AI applications** that actually ship  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 MIDAS  
+**Multi-Microservice AI Intelligence Platform**
+
+- Architected as **independent, deployable microservices**  
+- Services for ingestion, indexing, retrieval, reasoning, orchestration & inference  
+- Domain-restricted intelligence with grounding, confidence scoring & guardrails  
+- Built to scale, isolate failures, and behave in production  
+- **FastAPI • Docker • Supabase (pgvector) • React/Next.js**
+
+🧪 *Production > demos*
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 Tutorly  
+**Reinforcement-Learning Powered Tutoring System**
+
+- RL decides *how* learning adapts (not just what)  
+- GRPO / PPO-style optimization for session planning  
+- Continuous feedback loops that learn from the learner  
+- **Python • RL Agents • FastAPI • React**
+
+📚 *Teaching machines to teach humans*
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📄 AskDocSite  
+**Document Intelligence Without Ctrl+F Pain**
+
+- Secure, multi-tenant document chat  
+- Vector retrieval with strict access control  
+- Built for real users, not just PDFs in folders  
+- **FastAPI • Supabase • pgvector • Next.js**
+
+📎 *Because PDFs deserve rights*
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Full-Stack ML Systems  
+**Notebook → Docker → Production**
+
+- ML pipelines, model serving, CI/CD, monitoring  
+- Dockerized FastAPI backends + modern frontends  
+- Reliability, observability & scale first  
+
+🚀 *If it can’t deploy, it doesn’t count*
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 🌱 What I’m Diving Into
+## 🧪 Currently Obsessing Over
 
 </div>
 
 - Advanced **Reinforcement Learning** (PPO, GRPO, Actor-Critic, multi-agent RL)  
-- **LLM systems engineering** — agents, memory, tools, guardrails, evaluation  
-- **MLOps & DevOps** for ML systems that don’t fall apart after deployment  
-- Designing scalable, opinionated AI platforms  
+- **LLM systems engineering** — agents, memory, tools & guardrails  
+- **MLOps & DevOps** so models don’t panic under traffic  
+- Designing AI platforms that prefer **facts over vibes**
 
 ---
 
 <div align="center">
 
-## 💬 Things I Enjoy Talking About
+## 💬 Talk to Me About
 
 </div>
 
+- RAG pipelines (chunking wars, pgvector, retrieval quality)  
 - FastAPI + React/Next.js full-stack ML apps  
-- Retrieval-Augmented Generation (pgvector, chunking, indexing, evaluation battles)  
-- Reinforcement Learning: theory → practice → debugging reality  
-- Docker, CI/CD, and the art of making prod boring  
+- RL theory → implementation → “why did it diverge?”  
+- Docker, CI/CD, and making production boring (the dream)
 
 ---
 
@@ -59,9 +117,11 @@ and a *questionable number of configs*.
 
 ## ⚡ Fun Fact
 
-I crossed an ocean for a Master’s degree and came back with  
-a GitHub full of AI systems, Dockerfiles,  
-and **trust issues with default hyperparameters** 🚀
+I crossed an ocean for a Master’s degree  
+and came back with:
+- a GitHub full of AI systems  
+- too many Dockerfiles  
+- and **trust issues with default hyperparameters** 🤝🐍
 
 </div>
 
@@ -69,7 +129,7 @@ and **trust issues with default hyperparameters** 🚀
 
 <div align="center">
 
-## 🌐 Connect With Me
+## 🌐 Find Me Online
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ajit%20Kumar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinajitkumarpr@gmail.com)
@@ -80,90 +140,16 @@ and **trust issues with default hyperparameters** 🚀
 
 <div align="center">
 
-## 💻 Tech Stack
+## 📊 GitHub Stats (for science)
 
-</div>
-
-<div align="center">
-
-**Languages & Core**
-  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-**Frontend**
-  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-
-**Backend & Infra**
-  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-
-**ML & Data**
-  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-d9ead3?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://github-readme-stats.vercel.app/api?username=Ajitkumar-1001&theme=blue_navy&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Ajitkumar-1001&theme=blue_navy)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitkumar-1001&theme=blue_navy&layout=compact)
 
 </div>
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-</div>
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Ajitkumar-1001&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Ajitkumar-1001&theme=blue_navy&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitkumar-1001&theme=blue_navy&hide_border=false&layout=compact)
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-
-![](https://github-profile-trophy.vercel.app/?username=Ajitkumar-1001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-</div>
-
----
-
-<div align="center">
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Ajitkumar-1001&icon=6&color=1)](https://visitcount.itsvg.in)
-
-</div>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">  <h1> <strong> GIT Eater Snake</strong></h1>    </div>
 
