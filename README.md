@@ -113,12 +113,13 @@ I enjoy learning, shipping, and slowly trusting my code again.
 ---
 
 <div align="center">
+  
 <h1>GitHub Stats (for science)  </h1>
   
 ![](https://github-readme-stats.vercel.app/api?username=Ajitkumar-1001&theme=blue_navy&include_all_commits=true&count_private=true)
 
 </div>
----
+
 
 
 <div align="center">  <h1> <strong> GIT Eater Snake</strong></h1>  
