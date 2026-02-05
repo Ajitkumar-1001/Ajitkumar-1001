@@ -138,7 +138,9 @@ and **trust issues with default hyperparameters** 🚀
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Ajitkumar-1001&theme=radical&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=Ajitkumar-1001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 </div>
 
