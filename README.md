@@ -19,7 +19,7 @@ Powered by **Python, FastAPI, React/Next.js, Docker**
 
 <div align="center">
 
-## 🚀 What I’m Building (and occasionally debugging)
+<h1>What I’m Building (and debugging) </h1>
 
 </div>
 
@@ -96,7 +96,7 @@ I enjoy learning, shipping, and slowly trusting my code again.
 
 <div align="center">
 
-## 🧪 Currently Obsessing Over
+<h1>Currently Obsessing Over</h1>
 
 </div>
 
