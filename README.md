@@ -1,8 +1,8 @@
 <div align="center">
 
-# 💫 About Me
+# 👋 Hey, I’m Ajitkumar
+<img src="https://komarev.com/ghpvc/?username=Ajitkumar-1001&style=for-the-badge&color=blue"/>
 
-### Hi there 👋 I’m **Ajitkumar**
 
 I build AI systems that are **curious by design**,  
 **stubborn about correctness**,  
