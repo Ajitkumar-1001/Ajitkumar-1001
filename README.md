@@ -1,90 +1,30 @@
-<div align="center">
+# 💫 About Me:
+# Hi there 👋 I’m Ajitkumar<br><br>I build AI systems that are curious by design, stubborn about correctness,  <br>and slightly allergic to hallucinations.<br><br>Most days, you’ll find me turning research ideas into production-ready systems  <br>using Python, FastAPI, React/Next.js, Docker, and a questionable number of configs.<br><br>---<br><br>## 🔭 What I’m building<br>- **MIDAS** — a multi-agent, domain-restricted RAG system for dermatology Q&A and image analysis  <br>- **Tutorly** — a reinforcement-learning powered tutoring platform that adapts *how* you learn  <br>- **AskDocSite** — a secure, multi-tenant document intelligence platform (because PDFs deserve respect)  <br>- End-to-end **full-stack AI applications** that actually ship<br><br>---<br><br>## 🌱 What I’m diving into<br>- Advanced **Reinforcement Learning** (PPO, GRPO, Actor-Critic, multi-agent RL)<br>- **LLM systems engineering** — agents, memory, tools, guardrails, evaluation<br>- **MLOps & DevOps** for ML systems that don’t fall apart after deployment<br>- Designing scalable, opinionated AI platforms<br><br>---<br><br>## 💬 Things I enjoy talking about<br>- FastAPI + React/Next.js full-stack ML apps<br>- Retrieval-Augmented Generation (pgvector, chunking, indexing, evaluation battles)<br>- Reinforcement Learning theory → practice → debugging reality<br>- Docker, CI/CD, and the art of making prod boring<br><br>---<br><br>## ⚡ Fun fact<br>I crossed an ocean for a Master’s degree and came back with  <br>a GitHub full of AI systems, Dockerfiles, and **trust issues with default hyperparameters** 🚀<br>
 
-<h1>
-Hey there! I’m Ajit (aka AK)
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32" />
-</h1>
 
-<p><em>🚧 This profile is under construction powered by PRs and review commits 🚧</em></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ajit Kumar ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachinajitkumarpr@gmail.com ) 
 
-<img 
-  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZsN3Q1aG14ZW1rOWg4dDdlYjE1YjVqZ3FvZGF6bWl6bTRtZXRnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" 
-  width="260"
-/>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ajitkumar-1001&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ajitkumar-1001&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitkumar-1001&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br/><br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ajitkumar-1001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p><em>If you ever feel useless, don’t worry , this counter exists.</em></p>
-<p><em>Not everything that glitters is gold, and not all counts are real… yet I still check.👇</em></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<img 
-  src="https://komarev.com/ghpvc/?username=ajitkumar-1001&label=Profile%20Views&color=0e75b6&style=flat" 
-  alt="profile views"
-/>
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ajitkumar-1001&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Ajitkumar-1001&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<div align="center">
-
-<h2>🇺🇸 Traveled internationally to train a model called “AJIT”</h2>
-<p><strong>Convergence achieved:</strong> Master’s Degree</p>
-
-</div>
-
----
-<div align="center">
-<h1> <strong>🎓 Master’s in Data Science — University at Buffalo, NY (2025) </strong></h1>
-</div>
-<div align="center">
-<p><strong>New year. New title. Officially a Graduate.</strong></p>
-<p>Same curiosity. Fewer assignments. <em>Infinitely</em> more side projects.</p>
-</div>
-
-<div align="center">
-<img 
-  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ5dG5ydW9tbDg1NXp3dW5xZXJ3d3c2N2JwbmZ6ZHR0d2d3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" 
-  width="180"
-/>
-</div>
-
-<div align="center">
-<p><strong>
-Let’s build something meaningful —<br/>
-or at least something that doesn’t crash in production.
-</strong></p>
-</div>
-
----
-<div align="center">
-🕵️‍♂️ <em>
-This profile contains several private repositories — not because they’re secret,  
-but because some things are best kept private until they’re ready to be published.
-</em>
-
-
-🔒 Private Repositories: 10+  
-(Production systems, RAG pipelines, ML experiments, and client work)
-
-
-
-🚀 <strong>Coming soon:</strong> projects, experiments, and a suspicious number of commits
-
-</div>
-
-## Developer Activity
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Ajitkumar-1001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Ajitkumar-1001&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitkumar-1001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-profile-trophy.vercel.app/?username=Ajitkumar-1001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">  <h1> <strong> GIT Eater Snake</strong></h1>    </div>
 
