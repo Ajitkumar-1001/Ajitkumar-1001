@@ -4,14 +4,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=Ajitkumar-1001&style=for-the-badge&color=blue" alt="profile views"/>
 
-### I build AI systems that  
-🧠 think before they speak  
-🛠️ survive production  
-🤖 and don’t hallucinate for fun  
+### I’m someone who
+
+- overthinks (in a good way)
+- enjoys building things from scratch
+- and is curious about how systems behave 
 
 Research ideas in → **production-grade systems out**  
-Powered by **Python, FastAPI, React/Next.js, Docker**  
-(and an irresponsible number of configs)
+
 
 </div>
 
