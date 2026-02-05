@@ -32,9 +32,10 @@ Powered by **Python, FastAPI, React/Next.js, Docker**
 
 - Architected as **independent, deployable microservices**  
 - Services for ingestion, indexing, retrieval, reasoning, orchestration & inference  
-- Domain-restricted intelligence with grounding, confidence scoring & guardrails  
+- Domain-restricted intelligence with grounding, confidence scoring  
 - Built to scale, isolate failures, and behave in production  
 - **FastAPI • Docker  • React/Next.js**
+- Deployment on Process and Progress
 
 🧪 *Production > demos*
 
@@ -63,8 +64,7 @@ Powered by **Python, FastAPI, React/Next.js, Docker**
 
 - Secure, multi-tenant document chat  
 - Vector retrieval with strict access control  
-- Built for real users, not just PDFs in folders  
-- **FastAPI • Supabase • pgvector • Next.js**
+- **FastAPI • Next.js**
 
 📎 *Because PDFs deserve rights*
 
