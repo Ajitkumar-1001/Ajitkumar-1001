@@ -34,7 +34,7 @@ Powered by **Python, FastAPI, React/Next.js, Docker**
 - Services for ingestion, indexing, retrieval, reasoning, orchestration & inference  
 - Domain-restricted intelligence with grounding, confidence scoring & guardrails  
 - Built to scale, isolate failures, and behave in production  
-- **FastAPI • Docker • Supabase (pgvector) • React/Next.js**
+- **FastAPI • Docker  • React/Next.js**
 
 🧪 *Production > demos*
 
@@ -86,6 +86,13 @@ Powered by **Python, FastAPI, React/Next.js, Docker**
 </table>
 
 ---
+<div align="center">
+
+I like building things that make sense,  breaking them until they don’t, and then fixing them so they survive real users.
+
+I enjoy learning, shipping, and slowly trusting my code again.
+
+</div>
 
 <div align="center">
 
@@ -102,58 +109,22 @@ Powered by **Python, FastAPI, React/Next.js, Docker**
 
 <div align="center">
 
-## 💬 Talk to Me About
-
-</div>
-
-- RAG pipelines (chunking wars, pgvector, retrieval quality)  
-- FastAPI + React/Next.js full-stack ML apps  
-- RL theory → implementation → “why did it diverge?”  
-- Docker, CI/CD, and making production boring (the dream)
 
 ---
 
 <div align="center">
-
-## ⚡ Fun Fact
-
-I crossed an ocean for a Master’s degree  
-and came back with:
-- a GitHub full of AI systems  
-- too many Dockerfiles  
-- and **trust issues with default hyperparameters** 🤝🐍
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Find Me Online
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ajit%20Kumar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinajitkumarpr@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats (for science)
-
+<h1>GitHub Stats (for science)  </h1>
+  
 ![](https://github-readme-stats.vercel.app/api?username=Ajitkumar-1001&theme=blue_navy&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Ajitkumar-1001&theme=blue_navy)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitkumar-1001&theme=blue_navy&layout=compact)
 
 </div>
-
 ---
 
 
-<div align="center">  <h1> <strong> GIT Eater Snake</strong></h1>    </div>
+<div align="center">  <h1> <strong> GIT Eater Snake</strong></h1>  
 
 ![snake](https://raw.githubusercontent.com/Ajitkumar-1001/Ajitkumar-1001/output/github-snake-dark.svg) 
 
+  </div>
 
 
