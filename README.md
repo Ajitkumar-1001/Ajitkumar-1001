@@ -129,7 +129,8 @@ I enjoy learning, shipping, and slowly trusting my code again.
 
 <div align="center">  <h1> <strong> GIT Eater Snake</strong></h1>  
 
-![snake](https://raw.githubusercontent.com/Ajitkumar-1001/Ajitkumar-1001/output/github-snake-navy.svg) 
+![snake](https://raw.githubusercontent.com/Ajitkumar-1001/Ajitkumar-1001/output/github-snake-navy.svg#gh-dark-mode-only)
+
 
   </div>
 
