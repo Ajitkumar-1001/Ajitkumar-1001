@@ -10,7 +10,7 @@
 enjoys building things from scratch
 and is curious about how systems behave**
 
-Research ideas in → **production-grade systems out**  
+<h3> <i>Research ideas in → **production-grade systems out**  </i></h3>
 
 
 </div>
