@@ -7,18 +7,18 @@
 <br/>
 
 <h4>
-Sometimes I overthink things.<br/>
-Usually because systems behave differently when observed closely.
+I overthink occasionally.<br/>
+Systems tend to behave oddly once they realize they’re being observed.
 </h4>
 
 <h4>
-I tend to build things from scratch.<br/>
-Mostly to see where assumptions fail.
+I build things from scratch most of the time.<br/>
+It helps identify which assumptions were optimistic.
 </h4>
 
 <h4>
-Curiosity shows up around how ideas change<br/>
-once they leave research papers and meet reality.
+I get curious when ideas<br/>
+step out of research papers and trip over reality.
 </h4>
 
 <br/>
