@@ -29,9 +29,9 @@ Research ideas → systems that have to exist in the real world
 
 <br/>
 
-<sub>
+<h6>
 Notes, experiments, and the occasional working system live below.
-</sub>
+</h6>
 
 </div>
 
