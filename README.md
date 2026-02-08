@@ -5,10 +5,9 @@
 <img src="https://komarev.com/ghpvc/?username=Ajitkumar-1001&style=for-the-badge&color=blue" alt="profile views"/>
 
 ### I’m someone who
-
-**overthinks (in a good way)
+<h4> <b>overthinks (in a good way)
 enjoys building things from scratch
-and is curious about how systems behave**
+and is curious about how systems behave </b> </h4> 
 
 <h3> <i>Research ideas in → Production-Grade Systems Out  </i></h3>
 
