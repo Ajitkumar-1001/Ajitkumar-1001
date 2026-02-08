@@ -4,15 +4,37 @@
 
 <img src="https://komarev.com/ghpvc/?username=Ajitkumar-1001&style=for-the-badge&color=blue" alt="profile views"/>
 
-### I’m someone who
-<h4> <b>overthinks (in a good way)
-enjoys building things from scratch
-and is curious about how systems behave </b> </h4> 
+<br/>
 
-<h3> <i>Research ideas in → Production-Grade Systems Out  </i></h3>
+<h4>
+Sometimes I overthink things.<br/>
+Usually because systems behave differently when observed closely.
+</h4>
 
+<h4>
+I tend to build things from scratch.<br/>
+Mostly to see where assumptions fail.
+</h4>
+
+<h4>
+Curiosity shows up around how ideas change<br/>
+once they leave research papers and meet reality.
+</h4>
+
+<br/>
+
+<h3><i>
+Research ideas → systems that have to exist in the real world
+</i></h3>
+
+<br/>
+
+<sub>
+Notes, experiments, and the occasional working system live below.
+</sub>
 
 </div>
+
 
 ---
 
@@ -99,9 +121,9 @@ I enjoy learning, shipping, and slowly trusting my code again.
 
 </div>
 
-- Advanced **Reinforcement Learning** (PPO, GRPO, Actor-Critic, multi-agent RL)  
-- **LLM systems engineering** — agents, memory, tools & guardrails  
-- **MLOps & DevOps** so models don’t panic under traffic  
+- Advanced **Reinforcement Learning** 
+- **LLM systems engineering** 
+- **MLOps & DevOps**  
 - Designing AI platforms that prefer **facts over vibes**
 
 ---
