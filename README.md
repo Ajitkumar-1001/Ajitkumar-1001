@@ -32,7 +32,7 @@ and is curious about how systems behave**
 
 - Architected as **independent, deployable microservices**  
 - Services for ingestion, indexing, retrieval, reasoning, orchestration & inference  
-- Domain-restricted intelligence with grounding, confidence scoring with Clara   
+- Domain-restricted intelligence with grounding, confidence scoring
 - Built to scale, isolate failures, and behave in production  
 - **FastAPI • Docker  • React/Next.js**
 - Deployment on Process and Progress
