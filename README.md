@@ -139,13 +139,13 @@ I enjoy learning, shipping, and slowly trusting my code again.
   
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajitkumar-1001&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)
+
 <br/>
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ajitkumar-1001&theme=blue_navy&hide_border=false)
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitkumar-1001&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 </div>
