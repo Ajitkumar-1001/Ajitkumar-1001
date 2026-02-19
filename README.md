@@ -137,12 +137,22 @@ I enjoy learning, shipping, and slowly trusting my code again.
   
 <h1>GitHub Stats (for science)  </h1>
   
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Ajitkumar-1001&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ajitkumar-1001&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitkumar-1001&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app" alt="Ajitkumar's GitHub Stats" />
 
+<br/>
 
+<!-- GitHub Streak Stats -->
+<img src="https://nirzak-streak-stats.vercel.app" alt="GitHub Streak Stats" />
+
+<br/>
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
+
+</div>
 
 </div>
 
