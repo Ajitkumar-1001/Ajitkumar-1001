@@ -139,19 +139,13 @@ I enjoy learning, shipping, and slowly trusting my code again.
   
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app" alt="Ajitkumar's GitHub Stats" />
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajitkumar-1001&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
 
-<!-- GitHub Streak Stats -->
-<img src="https://nirzak-streak-stats.vercel.app" alt="GitHub Streak Stats" />
-
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ajitkumar-1001&theme=blue_navy&hide_border=false)
 <br/>
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitkumar-1001&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 </div>
