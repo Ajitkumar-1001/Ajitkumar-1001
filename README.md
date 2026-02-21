@@ -1,14 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1f3a,100:1e90ff&height=240&section=header&text=Hi%2C%20I%27m%20Ajitkumar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineering%20AI%20systems%20for%20production%2C%20not%20slides&descAlignY=68&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,100:1e90ff&height=260&section=header&text=Hi%2C%20I%27m%20Ajitkumar%20%F0%9F%A6%BE&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20AI%20systems%20that%20hold%20up%20when%20reality%20pushes%20back&descAlignY=62&descSize=18" />
 
 <img src="https://komarev.com/ghpvc/?username=Ajitkumar-1001&style=for-the-badge&color=blue" alt="profile views"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=600&color=1e90ff&center=true&vCenter=true&width=820&lines=Signal+%3E+Noise;Fault+Isolation+%7C+Observability+%7C+Scaling;RL+Policies+for+Adaptive+Learning+Systems;Grounded+LLM+Pipelines+with+Confidence+Gating" />
+<table>
+<tr>
+<td>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=600&color=7DBBFF&center=true&vCenter=true&width=260&lines=Research+%E2%86%92+Architecture;Designing+for+Scale;First+Principles" />
+
+</td>
+<td>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=600&color=7DBBFF&center=true&vCenter=true&width=260&lines=Deployment+%E2%86%92+Reality;Fault+Isolation;Observability" />
+
+</td>
+<td>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=600&color=7DBBFF&center=true&vCenter=true&width=260&lines=RL+Systems;Agentic+AI;If+it+can%E2%80%99t+deploy%2C+it%E2%80%99s+not+done" />
+
+</td>
+</tr>
+</table>
 
 <br/><br/>
+
+</div>
+
+
+
+<div align="center">
+
+###  Systems engineered for conditions where assumptions fail
+
+**Most prototypes succeed.**  
+**Production systems reveal the truth.**
+
+--- I care about what happens *after deployment* when real users, scale, and entropy take over --- 
 
 </div>
 
