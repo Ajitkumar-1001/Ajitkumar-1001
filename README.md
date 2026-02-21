@@ -1,32 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,100:1e90ff&height=260&section=header&text=Hi%2C%20I%27m%20Ajitkumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20production-grade%20AI%20systems%20that%20survive%20real%20users&descAlignY=62&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,100:1e90ff&height=260&section=header&text=Hi%2C%20I%27m%20Ajitkumar%20%F0%9F%A6%BE&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20AI%20systems%20that%20hold%20up%20when%20reality%20pushes%20back&descAlignY=62&descSize=18" />
 
 <img src="https://komarev.com/ghpvc/?username=Ajitkumar-1001&style=for-the-badge&color=blue" alt="profile views"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=600&color=7DBBFF&center=true&vCenter=true&width=820&lines=Research+%E2%86%92+Architecture+%E2%86%92+Deployment+%E2%86%92+Reality;RL-driven+learning+systems+%7C+Agentic+AI+%7C+LLM+Infrastructure;If+it+can%E2%80%99t+deploy%2C+it%E2%80%99s+not+done." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=650&color=7DBBFF&center=true&vCenter=true&width=820&lines=I+build+from+first+principles.;I+stress-test+assumptions+in+production.;Research+is+useful+when+it+ships." />
 
 <br/><br/>
 
 </div>
-
----
-
-<div align="center">
-
-### 🧠 Systems engineered for conditions where assumptions fail
-
-**Most prototypes succeed.**  
-**Production systems reveal the truth.**
-
-🚀 I care about what happens *after deployment* —  
-when real users, scale, and entropy take over.
-
-</div>
-
-
 
 
 
