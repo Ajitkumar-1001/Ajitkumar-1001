@@ -73,7 +73,7 @@ then redesign them so those limits move.
 
 <div align="center">
 
-# ACTIVITY GRAPH
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajitkumar-1001&bg_color=000000&color=7dbbff&line=1e90ff&point=7dbbff&area=true&hide_border=true" />
 
@@ -83,7 +83,7 @@ then redesign them so those limits move.
 
 <div align="center">
 
-# CONTRIBUTION PATTERN
+# SNAKE and COMMITS
 
 ![snake](https://raw.githubusercontent.com/Ajitkumar-1001/Ajitkumar-1001/output/github-snake-navy.svg#gh-dark-mode-only)
 
