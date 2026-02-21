@@ -9,26 +9,36 @@
 
 <br/><br/>
 
+<div align="center">
 
-### 🧠 Systems engineered for conditions where assumptions fail
-
-**Most prototypes succeed.**  
-**Production systems reveal the truth.**
-
-🚀 I focus on what happens *after deployment* —  
-when real users, scale, and entropy take over.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,100:1e90ff&height=220&section=header&text=AJITKUMAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VtN3V1eDRmY3p4YzJ0cDV1d2ZyN3VxZ3B6ZzFqazV4eGx0eHc0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
+<img src="https://komarev.com/ghpvc/?username=Ajitkumar-1001&style=for-the-badge&color=blue" />
 
+<br/><br/>
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="480"/>
+
+<br/><br/>
+
+## 🧠 SYSTEMS ENGINEERED FOR HOSTILE REALITY
+
+**Most prototypes succeed.**  
+**Production environments expose the truth.**
+
+🚀 I design for the moment systems encounter real users, scale, and entropy.
+
+<br/>
 
 ### 🛰️ Research → Architecture → Deployment → Reality
 
-Closing that gap is the objective.  
-Everything below is part of that process.
+Closing that gap is the objective.
 
 </div>
+
+
 
 </div>
 
