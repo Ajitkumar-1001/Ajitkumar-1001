@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,100:1e90ff&height=260&section=header&text=Hi%2C%20I%27m%20Ajitkumar%20%F0%9F%A6%BE&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20AI%20systems%20that%20hold%20up%20when%20reality%20pushes%20back&descAlignY=62&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1f3a,100:1e90ff&height=240&section=header&text=Hi%2C%20I%27m%20Ajitkumar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineering%20AI%20systems%20for%20production%2C%20not%20slides&descAlignY=68&descSize=18" />
 
 <img src="https://komarev.com/ghpvc/?username=Ajitkumar-1001&style=for-the-badge&color=blue" alt="profile views"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=650&color=7DBBFF&center=true&vCenter=true&width=820&lines=I+build+from+first+principles.;I+stress-test+assumptions+in+production.;Research+is+useful+when+it+ships." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=600&color=1e90ff&center=true&vCenter=true&width=820&lines=Signal+%3E+Noise;Fault+Isolation+%7C+Observability+%7C+Scaling;RL+Policies+for+Adaptive+Learning+Systems;Grounded+LLM+Pipelines+with+Confidence+Gating" />
 
 <br/><br/>
 
 </div>
-
-
 
 <div align="center">
 
