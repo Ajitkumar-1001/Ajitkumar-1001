@@ -10,12 +10,10 @@
 
 <br/><br/>
 
-<!-- HUD / Nanotech Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1f3a,100:1e90ff&height=2&section=header" width="85%"/>
 
 <br/><br/>
 
-<!-- PARALLEL TYPING: 3 channels -->
 <table>
 <tr>
 <td align="center" width="33%">
@@ -25,12 +23,12 @@
 </td>
 <td align="center" width="33%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1700&pause=450&color=7DBBFF&center=true&vCenter=true&width=260&lines=Deployment+%E2%86%92+Reality;Fault+Isolation;Observability+by+Default" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1700&pause=450&color=7DBBFF&center=true&vCenter=true&width=260&lines=Deployment+%E2%86%92+Reality;Fault+Isolation;Observability" />
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1700&pause=450&color=7DBBFF&center=true&vCenter=true&width=280&lines=RL-Driven+Systems;Agentic+AI+Pipelines;If+it+can%E2%80%99t+deploy%2C+it%E2%80%99s+not+done" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1700&pause=450&color=7DBBFF&center=true&vCenter=true&width=280&lines=RL-Driven+Systems;Agentic+AI;If+it+can%E2%80%99t+deploy%2C+it%E2%80%99s+not+done" />
 
 </td>
 </tr>
@@ -38,7 +36,6 @@
 
 <br/>
 
-<!-- Arsenal Badges (tight + high-signal) -->
 <img src="https://img.shields.io/badge/FastAPI-0b1f3a?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-0b1f3a?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-0b1f3a?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -48,22 +45,21 @@
 
 <br/><br/>
 
-<!-- Doctrine -->
 ### 🧠 Systems engineered for conditions where assumptions fail
 
-**Most prototypes succeed.**  
-**Production systems reveal the truth.**
+Most prototypes work.  
+Production environments expose what survives.
 
-🚀 I focus on what happens *after deployment* —  
-when real users, scale, and entropy take over.
+I design for the moment systems encounter real users,  
+real scale, and real entropy.
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1f3a,100:1e90ff&height=2&section=header" width="85%"/>
 
-<br/><br/>
-
 </div>
+
+---
 
 <div align="center">
 
@@ -79,10 +75,11 @@ when real users, scale, and entropy take over.
 ### 🧠 MIDAS  
 **Distributed AI Intelligence Platform**
 
-- Microservice-based architecture  
+A microservice-oriented system for grounded, domain-restricted intelligence.
+
 - Ingestion → Indexing → Retrieval → Reasoning → Orchestration  
-- Grounded responses with confidence gating  
-- Designed for fault isolation and horizontal scaling  
+- Confidence-gated responses  
+- Fault-isolated architecture designed for scale  
 - **FastAPI • Docker • React/Next.js**
 
 🧪 Built for sustained operation, not demonstrations
@@ -94,9 +91,11 @@ when real users, scale, and entropy take over.
 ### 🎓 Tutorly  
 **Reinforcement-Learning Tutoring Infrastructure**
 
-- Policy optimization for adaptive instruction  
+An adaptive learning system where policy optimization drives instruction.
+
 - Session-level feedback loops  
-- Learner-state-aware planning  
+- Learner-state modeling  
+- RL-based planning and adaptation  
 - **Python • RL Agents • FastAPI • React**
 
 📚 Systems that adjust, not scripts that repeat
@@ -110,9 +109,10 @@ when real users, scale, and entropy take over.
 ### 📄 AskDocSite  
 **Controlled Document Intelligence**
 
-- Secure multi-tenant retrieval  
+Secure multi-tenant retrieval engineered for privacy and reliability.
+
 - Access-scoped vector search  
-- Production-oriented API design  
+- Production-ready API design  
 - **FastAPI • Next.js**
 
 📎 Retrieval without leakage
@@ -124,10 +124,12 @@ when real users, scale, and entropy take over.
 ### ⚙️ ML Systems Engineering  
 **End-to-End Deployment Discipline**
 
+From experimentation to monitored production systems.
+
 - Training → Serving → Monitoring → Iteration  
 - Containerized infrastructure  
 - CI/CD integration  
-- Failure-aware design  
+- Failure-aware design
 
 🚀 Reliability is a feature
 
@@ -138,11 +140,12 @@ when real users, scale, and entropy take over.
 
 <div align="center">
 
-<h2>
-I build systems to observe their limits,  
+## I build systems to observe their limits —  
 then redesign them so those limits move.
-</h2>
+
 </div>
+
+---
 
 <div align="center">
 
@@ -150,10 +153,10 @@ then redesign them so those limits move.
 
 </div>
 
--  **Reinforcement Learning Systems** 
--  Large-Scale **LLM Infrastructure** 
--  **MLOps** & Production Reliability  
--  Architectures that degrade gracefully under stress
+- Reinforcement Learning Systems  
+- Large-Scale LLM Infrastructure  
+- MLOps & Production Reliability  
+- Architectures that degrade gracefully under stress
 
 ---
 
@@ -167,11 +170,11 @@ then redesign them so those limits move.
 
 </div>
 
+---
 
+<div align="center">
 
-<div align="center">  
-
-# **GIT Eater Snake**
+# GIT Eater Snake
 
 ![snake](https://raw.githubusercontent.com/Ajitkumar-1001/Ajitkumar-1001/output/github-snake-navy.svg#gh-dark-mode-only)
 
