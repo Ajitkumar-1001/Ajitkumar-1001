@@ -24,11 +24,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1f3a&height=2" />
 
-<div align="center">
-
-# ACTIVE SYSTEMS
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1f3a&height=2" />
 
@@ -40,14 +35,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1f3a&height=2" />
 
-<div align="center">
+<!-- <div align="center">
 
 ## ARCHITECTURE PHILOSOPHY
 
 I build systems to observe their limits,  
 then redesign them so those limits move.
 
-</div>
+</div> -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1f3a&height=2" />
 
