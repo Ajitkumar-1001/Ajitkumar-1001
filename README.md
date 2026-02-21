@@ -6,11 +6,10 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VtN3V1eDRmY3p4YzJ0cDV1d2ZyN3VxZ3B6ZzFqazV4eGx0eHc0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
 
 <br/><br/>
 
-<div align="center">
+
 ### 🧠 Systems engineered for conditions where assumptions fail
 
 **Most prototypes succeed.**  
@@ -20,6 +19,9 @@
 when real users, scale, and entropy take over.
 
 <br/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VtN3V1eDRmY3p4YzJ0cDV1d2ZyN3VxZ3B6ZzFqazV4eGx0eHc0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
+
 
 ### 🛰️ Research → Architecture → Deployment → Reality
 
