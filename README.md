@@ -1,45 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,100:1e90ff&height=260&section=header&text=Hi%2C%20I%27m%20Ajitkumar%20%F0%9F%A6%BE&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20AI%20systems%20that%20hold%20up%20when%20reality%20pushes%20back&descAlignY=62&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,100:1e90ff&height=270&section=header&text=Hi%2C%20I%27m%20Ajitkumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20AI%20systems%20that%20hold%20up%20when%20reality%20pushes%20back&descAlignY=64&descSize=18" />
 
 <img src="https://komarev.com/ghpvc/?username=Ajitkumar-1001&style=for-the-badge&color=blue" alt="profile views"/>
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-cd45-4c2f-8b6f-9b5c7c3fd2d1.gif" width="420" />
+
 <br/><br/>
 
+<!-- HUD / Nanotech Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1f3a,100:1e90ff&height=2&section=header" width="85%"/>
+
+<br/><br/>
+
+<!-- PARALLEL TYPING: 3 channels -->
 <table>
 <tr>
-<td>
+<td align="center" width="33%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=600&color=7DBBFF&center=true&vCenter=true&width=260&lines=Research+%E2%86%92+Architecture;Designing+for+Scale;First+Principles" />
-
-</td>
-<td>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=600&color=7DBBFF&center=true&vCenter=true&width=260&lines=Deployment+%E2%86%92+Reality;Fault+Isolation;Observability" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1700&pause=450&color=7DBBFF&center=true&vCenter=true&width=260&lines=Research+%E2%86%92+Architecture;First+Principles;Design+for+Scale" />
 
 </td>
-<td>
+<td align="center" width="33%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=600&color=7DBBFF&center=true&vCenter=true&width=260&lines=RL+Systems;Agentic+AI;If+it+can%E2%80%99t+deploy%2C+it%E2%80%99s+not+done" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1700&pause=450&color=7DBBFF&center=true&vCenter=true&width=260&lines=Deployment+%E2%86%92+Reality;Fault+Isolation;Observability+by+Default" />
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1700&pause=450&color=7DBBFF&center=true&vCenter=true&width=280&lines=RL-Driven+Systems;Agentic+AI+Pipelines;If+it+can%E2%80%99t+deploy%2C+it%E2%80%99s+not+done" />
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<!-- Arsenal Badges (tight + high-signal) -->
+<img src="https://img.shields.io/badge/FastAPI-0b1f3a?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-0b1f3a?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-0b1f3a?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-0b1f3a?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/RL%20Systems-0b1f3a?style=for-the-badge&logo=OpenAI&logoColor=white" />
+<img src="https://img.shields.io/badge/MLOps-0b1f3a?style=for-the-badge&logo=githubactions&logoColor=white" />
+
 <br/><br/>
 
-</div>
-
-
-
-<div align="center">
-
-###  Systems engineered for conditions where assumptions fail
+<!-- Doctrine -->
+### 🧠 Systems engineered for conditions where assumptions fail
 
 **Most prototypes succeed.**  
 **Production systems reveal the truth.**
 
---- I care about what happens *after deployment* when real users, scale, and entropy take over --- 
+🚀 I focus on what happens *after deployment* —  
+when real users, scale, and entropy take over.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1f3a,100:1e90ff&height=2&section=header" width="85%"/>
+
+<br/><br/>
 
 </div>
 
