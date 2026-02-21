@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000,0b1f3a&height=220&section=header&text=AJITKUMAR&fontSize=56&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000,0b1f3a&height=220&section=header&text=AJITKUMAR&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=AI%20Systems%20Architect%20%7C%20Production%20Infrastructure&descAlign=50&descAlignY=72&descSize=18" />
 
 
 <img src="https://komarev.com/ghpvc/?username=Ajitkumar-1001&style=for-the-badge&color=0b1f3a" alt="profile views"/>
