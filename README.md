@@ -29,6 +29,7 @@ Work below reflects ongoing attempts to close that loop.
 
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -91,7 +92,7 @@ Work below reflects ongoing attempts to close that loop.
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 <div align="center">
