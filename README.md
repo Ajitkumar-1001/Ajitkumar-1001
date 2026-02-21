@@ -6,18 +6,27 @@
 
 <br/>
 
-I design systems expected to operate beyond controlled environments.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VtN3V1eDRmY3p4YzJ0cDV1d2ZyN3VxZ3B6ZzFqazV4eGx0eHc0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
 
-Most prototypes work.  
-Production systems are the real test.
+<br/><br/>
 
-I focus on what happens after deployment.
+<div align="center">
+### 🧠 Systems engineered for conditions where assumptions fail
+
+**Most prototypes succeed.**  
+**Production systems reveal the truth.**
+
+🚀 I focus on what happens *after deployment* —  
+when real users, scale, and entropy take over.
 
 <br/>
 
-### *Research → Architecture → Deployment → Reality*
+### 🛰️ Research → Architecture → Deployment → Reality
 
-Work below reflects ongoing attempts to close that loop.
+Closing that gap is the objective.  
+Everything below is part of that process.
+
+</div>
 
 </div>
 
