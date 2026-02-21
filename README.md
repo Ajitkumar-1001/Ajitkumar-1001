@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### SYSTEM BOOT 
+
 
 <img src="./assets/jarvis-boot.gif" width="900" alt="JARVIS boot sequence"/>
 
