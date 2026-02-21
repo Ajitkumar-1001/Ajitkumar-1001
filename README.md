@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### SYSTEM BOOT SEQUENCE
+### SYSTEM BOOT 
 
 <img src="./assets/jarvis-boot.gif" width="900" alt="JARVIS boot sequence"/>
 
@@ -44,7 +44,7 @@ Research → Architecture → Deployment → Reality
 
 <div align="center">
 
-### CONSOLE VIEW (SEQUENTIAL LOAD)
+
 
 <img src="./assets/active-systems-console.gif" width="950" alt="Active systems console"/>
 
