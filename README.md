@@ -93,13 +93,13 @@ Work below reflects ongoing attempts to close that loop.
 </tr>
 </table>
 </div>
----
 
 <div align="center">
 
+<h2>
 I build systems to observe their limits,  
 then redesign them so those limits move.
-
+</h2>
 </div>
 
 <div align="center">
@@ -108,10 +108,10 @@ then redesign them so those limits move.
 
 </div>
 
-- Reinforcement Learning Systems  
-- Large-Scale LLM Infrastructure  
-- MLOps & Production Reliability  
-- Architectures that degrade gracefully under stress
+-  **Reinforcement Learning Systems** 
+-  Large-Scale **LLM Infrastructure** 
+-  **MLOps** & Production Reliability  
+-  Architectures that degrade gracefully under stress
 
 ---
 
@@ -125,7 +125,7 @@ then redesign them so those limits move.
 
 </div>
 
----
+
 
 <div align="center">  
 
