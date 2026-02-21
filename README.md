@@ -10,9 +10,7 @@
 
 <div align="center">
 
-
-
-<img src="./assets/jarvis-boot.gif" width="900" alt="JARVIS boot sequence"/>
+<img src="./assets/boot.gif" width="900" alt="boot sequence"/>
 
 </div>
 
@@ -20,15 +18,7 @@
 
 <div align="center">
 
-## OPERATING PRINCIPLES
-
-Design systems that remain stable  
-under real users, real scale, and real uncertainty.
-
-Most prototypes succeed.  
-Production environments determine what survives.
-
-Research → Architecture → Deployment → Reality
+<img src="./assets/operating-principles.gif" width="950" alt="Operating Principles"/>
 
 </div>
 
@@ -43,8 +33,6 @@ Research → Architecture → Deployment → Reality
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1f3a&height=2" />
 
 <div align="center">
-
-
 
 <img src="./assets/active-systems-console.gif" width="950" alt="Active systems console"/>
 
@@ -65,14 +53,9 @@ then redesign them so those limits move.
 
 <div align="center">
 
-# CURRENT FOCUS
+<img src="./assets/current-focus.gif" width="950" alt="Current Focus"/>
 
 </div>
-
-- Reinforcement Learning Systems  
-- Large-Scale LLM Infrastructure  
-- MLOps & Production Reliability  
-- Architectures that degrade gracefully under stress  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1f3a&height=2" />
 
@@ -83,6 +66,16 @@ then redesign them so those limits move.
 <br/>
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ajitkumar-1001&theme=blue_navy&hide_border=true)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0b1f3a&height=2" />
+
+<div align="center">
+
+# ACTIVITY GRAPH
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajitkumar-1001&bg_color=000000&color=7dbbff&line=1e90ff&point=7dbbff&area=true&hide_border=true" />
 
 </div>
 
