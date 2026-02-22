@@ -69,7 +69,7 @@ then redesign them so those limits move.
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-3d-contrib.svg" alt="3D Contribution Graph" />
+<img src="./profile-3d-contrib/profile-3d-contrib.svg" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajitkumar-1001&bg_color=000000&color=7dbbff&line=1e90ff&point=7dbbff&area=true&hide_border=true" />
 
