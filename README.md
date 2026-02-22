@@ -81,6 +81,6 @@ then redesign them so those limits move.
 
 # SNAKE and COMMITS
 
-![ocean](https://raw.githubusercontent.com/Ajitkumar-1001/Ajitkumar-1001/output/ocean.gif#gh-dark-mode-only)
+![ocean-dark](https://raw.githubusercontent.com/Ajitkumar-1001/Ajitkumar-1001/output/ocean.gif#gh-dark-mode-only)
 
 </div>
