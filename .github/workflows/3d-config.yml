@@ -1,0 +1,35 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contrib (Black-Architect)
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+          # ---- Theme (try these) ----
+          # Most “black + blue” looking presets in common builds:
+          THEME: "dark"   # swap to "night" or "github-dark" if you prefer
+
+          # ---- Output location (recommended) ----
+          OUTPUT: "profile-3d-contrib"
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated 3d contrib"; then
+            git push
+          fi
