@@ -61,7 +61,7 @@ then redesign them so those limits move.
 
 <br/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ajitkumar-1001&theme=blue_navy&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajitkumar-1001&theme=blue_navy&hide_border=true)
 
 </div>
 
