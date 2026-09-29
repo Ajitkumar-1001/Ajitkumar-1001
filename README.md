@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000,0b1f3a&height=220&section=header&text=AJITKUMAR&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=AI%20Systems%20Architect%20%7C%20Production%20Infrastructure&descAlign=50&descAlignY=72&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000,0b1f3a&height=220&section=header&text=AJITKUMAR&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=AI%20Systems%20Architect%20%7C%20Production%20Infrastructure&descAlign=50&descAlignY=72&descSize=18" alt="AJITKUMAR | AI Systems Architect | Production Infrastructure" />
 
 
 <img src="https://komarev.com/ghpvc/?username=Ajitkumar-1001&style=for-the-badge&color=0b1f3a" alt="profile views"/>
@@ -25,9 +25,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1f3a&height=2" />
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0b1f3a&height=2" />
-
 <div align="center">
 
 <img src="./assets/active-systems-console.gif" width="950" alt="Active systems console"/>
@@ -44,8 +41,6 @@ I build systems to observe their limits,
 then redesign them so those limits move.
 
 </div> -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0b1f3a&height=2" />
 
 <div align="center">
 
@@ -69,9 +64,7 @@ then redesign them so those limits move.
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajitkumar-1001&bg_color=000000&color=7dbbff&line=1e90ff&point=7dbbff&area=true&hide_border=true" />
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
 
 </div>
 
@@ -81,6 +74,6 @@ then redesign them so those limits move.
 
 # SNAKE and COMMITS
 
-![ocean-dark](https://raw.githubusercontent.com/Ajitkumar-1001/Ajitkumar-1001/output/ocean.gif#gh-dark-mode-only)
+![Contribution snake](https://raw.githubusercontent.com/Ajitkumar-1001/Ajitkumar-1001/output/ocean.gif)
 
 </div>
