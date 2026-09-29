@@ -38,7 +38,6 @@ jobs:
       - name: Render telemetry from the GitHub API
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USER: Ajitkumar-1001
         run: python3 .github/scripts/live_profile.py
 
       - name: Upload the rendered SVG (PR dry run)
