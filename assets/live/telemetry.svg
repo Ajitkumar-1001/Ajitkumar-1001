@@ -1,28 +1,137 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="t d">
-<title id="t">Live GitHub telemetry for Ajitkumar-1001</title><desc id="d">1636 contributions in the last 12 months, current streak 61 days, longest streak 80 days, active on 254 days, busiest day 106. 24 original public repos, 19 stars. Top languages by repo: Jupyter Notebook 43%, Python 36%, TypeScript 36%, CSS 21%, JavaScript 21%.</desc>
-<defs>
-<linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7dbbff" stop-opacity=".35"/><stop offset="1" stop-color="#7dbbff" stop-opacity="0"/></linearGradient>
-<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2f6fc4"/><stop offset="1" stop-color="#7dbbff"/></linearGradient>
-<filter id="glow" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
-<style>
-text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"DejaVu Sans Mono","Liberation Mono",monospace}
-@keyframes rise{from{opacity:0;transform:translateY(8px)}}
-@keyframes draw{from{stroke-dashoffset:1}}
-@keyframes grow{from{transform:scaleX(0)}}
-@keyframes pulse{50%{opacity:.3}}
-.rise{animation:rise .4s ease-out backwards}
-.draw{stroke-dasharray:1;animation:draw 1s ease-out .4s backwards}
-.bar{transform-box:fill-box;transform-origin:left center;animation:grow .6s ease-out backwards}
-.live{animation:pulse 2s ease-in-out 2}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}}
-</style>
-<rect width="1200" height="540" fill="#000000"/>
-<text x="28" y="40" font-size="22" fill="#e6eefc">Live Telemetry<tspan font-size="16" fill="#9fb3d1" dx="14">/ last 12 months</tspan></text>
-<circle class="live" cx="999.3" cy="34" r="4" fill="#7dbbff"/>
-<text x="1172.0" y="40.0" font-size="16.0" fill="#9fb3d1" text-anchor="end" >SYNC: 2026-09-29</text>
-<line x1="28" x2="1172" y1="60" y2="60" stroke="#0b1f3a" stroke-width="2"/>
-<rect x="28" y="90" width="1144" height="420" rx="18" fill="#050b16" stroke="#0b1f3a" stroke-width="2"/>
-<path d="M38,110V100H48M1162,110V100H1152M38,490V500H48M1162,490V500H1152" fill="none" stroke="#7dbbff" stroke-width="2"/>
-<g class="rise" style="animation-delay:0.00s"><rect x="52" y="118" width="169" height="116" rx="12" fill="#050b16" stroke="#0b1f3a" stroke-width="2"/><text x="66.0" y="148.0" font-size="16.0" fill="#9fb3d1" text-anchor="start" >CONTRIBUTIONS</text><text x="66.0" y="196.0" font-size="45.5" fill="#e6eefc" text-anchor="start" font-weight="700" filter="url(#glow)">1,636</text><text x="66.0" y="219.0" font-size="16.0" fill="#7dbbff" text-anchor="start" >last 12 months</text></g><g class="rise" style="animation-delay:0.06s"><rect x="237" y="118" width="169" height="116" rx="12" fill="#050b16" stroke="#0b1f3a" stroke-width="2"/><text x="251.0" y="148.0" font-size="16.0" fill="#9fb3d1" text-anchor="start" >CURRENT STREAK</text><text x="251.0" y="196.0" font-size="46.0" fill="#e6eefc" text-anchor="start" font-weight="700" filter="url(#glow)">61</text><text x="316.0" y="196.0" font-size="16.0" fill="#9fb3d1" text-anchor="start" >days</text><text x="251.0" y="219.0" font-size="16.0" fill="#7dbbff" text-anchor="start" >since Jul 31</text></g><g class="rise" style="animation-delay:0.12s"><rect x="422" y="118" width="169" height="116" rx="12" fill="#050b16" stroke="#0b1f3a" stroke-width="2"/><text x="436.0" y="148.0" font-size="16.0" fill="#9fb3d1" text-anchor="start" >LONGEST STREAK</text><text x="436.0" y="196.0" font-size="46.0" fill="#e6eefc" text-anchor="start" font-weight="700" filter="url(#glow)">80</text><text x="501.0" y="196.0" font-size="16.0" fill="#9fb3d1" text-anchor="start" >days</text><text x="436.0" y="219.0" font-size="16.0" fill="#7dbbff" text-anchor="start" >Jan 27–Apr 16</text></g><g class="rise" style="animation-delay:0.18s"><rect x="607" y="118" width="169" height="116" rx="12" fill="#050b16" stroke="#0b1f3a" stroke-width="2"/><text x="621.0" y="148.0" font-size="16.0" fill="#9fb3d1" text-anchor="start" >ACTIVE DAYS</text><text x="621.0" y="196.0" font-size="46.0" fill="#e6eefc" text-anchor="start" font-weight="700" filter="url(#glow)">254</text><text x="621.0" y="219.0" font-size="16.0" fill="#7dbbff" text-anchor="start" >of 367 days</text></g><g class="rise" style="animation-delay:0.24s"><rect x="792" y="118" width="169" height="116" rx="12" fill="#050b16" stroke="#0b1f3a" stroke-width="2"/><text x="806.0" y="148.0" font-size="16.0" fill="#9fb3d1" text-anchor="start" >BEST DAY</text><text x="806.0" y="196.0" font-size="46.0" fill="#e6eefc" text-anchor="start" font-weight="700" filter="url(#glow)">106</text><text x="806.0" y="219.0" font-size="16.0" fill="#7dbbff" text-anchor="start" >on Sep 28</text></g><g class="rise" style="animation-delay:0.30s"><rect x="977" y="118" width="169" height="116" rx="12" fill="#050b16" stroke="#0b1f3a" stroke-width="2"/><text x="991.0" y="148.0" font-size="16.0" fill="#9fb3d1" text-anchor="start" >ORIGINAL REPOS</text><text x="991.0" y="196.0" font-size="46.0" fill="#e6eefc" text-anchor="start" font-weight="700" filter="url(#glow)">24</text><text x="991.0" y="219.0" font-size="16.0" fill="#7dbbff" text-anchor="start" >19 stars</text></g><g class="rise" style="animation-delay:.4s"><rect x="52" y="256" width="640" height="232" rx="14" fill="#050b16" stroke="#0b1f3a" stroke-width="2"/><text x="78.0" y="290.0" font-size="16.0" fill="#7dbbff" text-anchor="start" >ACTIVITY / LAST 30 DAYS</text><text x="666.0" y="290.0" font-size="16.0" fill="#9fb3d1" text-anchor="end" >PEAK 106</text><line x1="78" x2="666" y1="322.0" y2="322.0" stroke="#0b1f3a" stroke-width="1.5"/><line x1="78" x2="666" y1="383.0" y2="383.0" stroke="#0b1f3a" stroke-width="1.5"/><line x1="78" x2="666" y1="444.0" y2="444.0" stroke="#0b1f3a" stroke-width="1.5"/><path d="M78.0,434.8L98.3,439.4L118.6,437.1L138.8,441.7L159.1,427.9L179.4,429.0L199.7,438.2L219.9,432.5L240.2,383.0L260.5,378.4L280.8,438.2L301.0,429.0L321.3,433.6L341.6,442.8L361.9,442.8L382.1,435.9L402.4,414.1L422.7,424.4L443.0,422.1L463.2,438.2L483.5,442.8L503.8,442.8L524.1,424.4L544.3,430.2L564.6,373.8L584.9,421.0L605.2,441.7L625.4,433.6L645.7,322.0L666.0,424.4L666.0,444L78.0,444Z" fill="url(#area)" stroke="none"/><path class="draw" pathLength="1" d="M78.0,434.8L98.3,439.4L118.6,437.1L138.8,441.7L159.1,427.9L179.4,429.0L199.7,438.2L219.9,432.5L240.2,383.0L260.5,378.4L280.8,438.2L301.0,429.0L321.3,433.6L341.6,442.8L361.9,442.8L382.1,435.9L402.4,414.1L422.7,424.4L443.0,422.1L463.2,438.2L483.5,442.8L503.8,442.8L524.1,424.4L544.3,430.2L564.6,373.8L584.9,421.0L605.2,441.7L625.4,433.6L645.7,322.0L666.0,424.4" fill="none" stroke="#1e90ff" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle class="live" cx="666.0" cy="424.4" r="5" fill="#7dbbff"/><text x="78.0" y="474.0" font-size="16.0" fill="#9fb3d1" text-anchor="start" >Aug 31</text><text x="666.0" y="474.0" font-size="16.0" fill="#9fb3d1" text-anchor="end" >Sep 29</text></g><g class="rise" style="animation-delay:.5s"><rect x="708" y="256" width="440" height="232" rx="14" fill="#050b16" stroke="#0b1f3a" stroke-width="2"/><text x="732.0" y="290.0" font-size="16.0" fill="#7dbbff" text-anchor="start" >LANGUAGES / % OF REPOS</text><text x="732.0" y="340.0" font-size="16.0" fill="#e6eefc" text-anchor="start" >Jupyter Notebook</text><rect x="902" y="329" width="162" height="10" rx="5" fill="#0b1f3a"/><rect class="bar" style="animation-delay:0.55s" x="902" y="329" width="69.7" height="10" rx="5" fill="url(#bar)"/><text x="1124.0" y="340.0" font-size="16.0" fill="#9fb3d1" text-anchor="end" >43%</text><text x="732.0" y="374.0" font-size="16.0" fill="#e6eefc" text-anchor="start" >Python</text><rect x="902" y="363" width="162" height="10" rx="5" fill="#0b1f3a"/><rect class="bar" style="animation-delay:0.63s" x="902" y="363" width="58.3" height="10" rx="5" fill="url(#bar)"/><text x="1124.0" y="374.0" font-size="16.0" fill="#9fb3d1" text-anchor="end" >36%</text><text x="732.0" y="408.0" font-size="16.0" fill="#e6eefc" text-anchor="start" >TypeScript</text><rect x="902" y="397" width="162" height="10" rx="5" fill="#0b1f3a"/><rect class="bar" style="animation-delay:0.71s" x="902" y="397" width="58.3" height="10" rx="5" fill="url(#bar)"/><text x="1124.0" y="408.0" font-size="16.0" fill="#9fb3d1" text-anchor="end" >36%</text><text x="732.0" y="442.0" font-size="16.0" fill="#e6eefc" text-anchor="start" >CSS</text><rect x="902" y="431" width="162" height="10" rx="5" fill="#0b1f3a"/><rect class="bar" style="animation-delay:0.79s" x="902" y="431" width="34.0" height="10" rx="5" fill="url(#bar)"/><text x="1124.0" y="442.0" font-size="16.0" fill="#9fb3d1" text-anchor="end" >21%</text><text x="732.0" y="476.0" font-size="16.0" fill="#e6eefc" text-anchor="start" >JavaScript</text><rect x="902" y="465" width="162" height="10" rx="5" fill="#0b1f3a"/><rect class="bar" style="animation-delay:0.87s" x="902" y="465" width="34.0" height="10" rx="5" fill="url(#bar)"/><text x="1124.0" y="476.0" font-size="16.0" fill="#9fb3d1" text-anchor="end" >21%</text></g>
+  <title id="t">Live GitHub telemetry for Ajitkumar-1001</title>
+  <desc id="d">
+    1639 contributions in the last 12 months, current streak 61 days, longest streak 80 days, active
+    on 254 days, busiest day 106. 24 original public repos, 19 stars. Top languages by repo: Jupyter
+    Notebook 43%, Python 36%, TypeScript 36%, CSS 21%, JavaScript 21%.
+  </desc>
+  <defs>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7dbbff" stop-opacity=".35" />
+      <stop offset="1" stop-color="#7dbbff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f6fc4" />
+      <stop offset="1" stop-color="#7dbbff" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="b" />
+      <feMerge>
+        <feMergeNode in="b" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    svg{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"DejaVu Sans Mono","Liberation Mono",monospace;font-size:16px}
+    text{fill:#9fb3d1}
+    .txt{fill:#e6eefc}
+    .mut{fill:#9fb3d1}
+    .acc{fill:#7dbbff}
+    .end{text-anchor:end}
+    .num{fill:#e6eefc;font-weight:700}
+    .bg{fill:#000000}
+    .card{fill:#050b16;stroke:#0b1f3a;stroke-width:2}
+    .rule{stroke:#0b1f3a;stroke-width:2}
+    .grid{stroke:#0b1f3a;stroke-width:1.5}
+    .track{fill:#0b1f3a}
+    .hud{fill:none;stroke:#7dbbff;stroke-width:2}
+    .trend{fill:none;stroke:#1e90ff;stroke-width:3;stroke-linejoin:round;stroke-linecap:round}
+    .dot{fill:#7dbbff}
+    @keyframes rise{from{opacity:0;transform:translateY(8px)}}
+    @keyframes draw{from{stroke-dashoffset:1}}
+    @keyframes grow{from{transform:scaleX(0)}}
+    @keyframes pulse{50%{opacity:.3}}
+    .rise{animation:rise .4s ease-out backwards}
+    .draw{stroke-dasharray:1;animation:draw 1s ease-out .4s backwards}
+    .bar{transform-box:fill-box;transform-origin:left center;animation:grow .6s ease-out backwards}
+    .live{animation:pulse 2s ease-in-out 2}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect class="bg" width="1200" height="540" />
+  <g id="header">
+    <text class="txt" x="28" y="40" font-size="22">Live Telemetry<tspan class="mut" font-size="16" dx="14">/ last 12 months</tspan></text>
+    <circle class="dot live" cx="999.3" cy="34" r="4" />
+    <text class="end" x="1172" y="40">SYNC: 2026-09-29</text>
+    <line class="rule" x1="28" x2="1172" y1="60" y2="60" />
+  </g>
+  <rect class="card" x="28" y="90" width="1144" height="420" rx="18" />
+  <path class="hud" d="M38,110V100H48M1162,110V100H1152M38,490V500H48M1162,490V500H1152" />
+  <g id="tiles">
+    <g class="rise" style="animation-delay:0s">
+      <rect class="card" x="52" y="118" width="169" height="116" rx="12" />
+      <text x="66" y="148">CONTRIBUTIONS</text>
+      <text class="num" x="66" y="196" font-size="45.5" filter="url(#glow)">1,639</text>
+      <text class="acc" x="66" y="219">last 12 months</text>
+    </g>
+    <g class="rise" style="animation-delay:0.06s">
+      <rect class="card" x="237" y="118" width="169" height="116" rx="12" />
+      <text x="251" y="148">CURRENT STREAK</text>
+      <text class="num" x="251" y="196" font-size="46" filter="url(#glow)">61</text>
+      <text x="316" y="196">days</text>
+      <text class="acc" x="251" y="219">since Jul 31</text>
+    </g>
+    <g class="rise" style="animation-delay:0.12s">
+      <rect class="card" x="422" y="118" width="169" height="116" rx="12" />
+      <text x="436" y="148">LONGEST STREAK</text>
+      <text class="num" x="436" y="196" font-size="46" filter="url(#glow)">80</text>
+      <text x="501" y="196">days</text>
+      <text class="acc" x="436" y="219">Jan 27–Apr 16</text>
+    </g>
+    <g class="rise" style="animation-delay:0.18s">
+      <rect class="card" x="607" y="118" width="169" height="116" rx="12" />
+      <text x="621" y="148">ACTIVE DAYS</text>
+      <text class="num" x="621" y="196" font-size="46" filter="url(#glow)">254</text>
+      <text class="acc" x="621" y="219">of 367 days</text>
+    </g>
+    <g class="rise" style="animation-delay:0.24s">
+      <rect class="card" x="792" y="118" width="169" height="116" rx="12" />
+      <text x="806" y="148">BEST DAY</text>
+      <text class="num" x="806" y="196" font-size="46" filter="url(#glow)">106</text>
+      <text class="acc" x="806" y="219">on Sep 28</text>
+    </g>
+    <g class="rise" style="animation-delay:0.3s">
+      <rect class="card" x="977" y="118" width="169" height="116" rx="12" />
+      <text x="991" y="148">ORIGINAL REPOS</text>
+      <text class="num" x="991" y="196" font-size="46" filter="url(#glow)">24</text>
+      <text class="acc" x="991" y="219">19 stars</text>
+    </g>
+  </g>
+  <g class="rise" id="activity" style="animation-delay:0.4s">
+    <rect class="card" x="52" y="256" width="640" height="232" rx="14" />
+    <text class="acc" x="78" y="290">ACTIVITY / LAST 30 DAYS</text>
+    <text class="end" x="666" y="290">PEAK 106</text>
+    <line class="grid" x1="78" x2="666" y1="322" y2="322" />
+    <line class="grid" x1="78" x2="666" y1="383" y2="383" />
+    <line class="grid" x1="78" x2="666" y1="444" y2="444" />
+    <path fill="url(#area)" d="M78,434.8L98.3,439.4L118.6,437.1L138.8,441.7L159.1,427.9L179.4,429L199.7,438.2L219.9,432.5L240.2,383L260.5,378.4L280.8,438.2L301,429L321.3,433.6L341.6,442.8L361.9,442.8L382.1,435.9L402.4,414.1L422.7,424.4L443,422.1L463.2,438.2L483.5,442.8L503.8,442.8L524.1,424.4L544.3,430.2L564.6,373.8L584.9,421L605.2,441.7L625.4,433.6L645.7,322L666,421L666,444L78,444Z" />
+    <path class="trend draw" pathLength="1" d="M78,434.8L98.3,439.4L118.6,437.1L138.8,441.7L159.1,427.9L179.4,429L199.7,438.2L219.9,432.5L240.2,383L260.5,378.4L280.8,438.2L301,429L321.3,433.6L341.6,442.8L361.9,442.8L382.1,435.9L402.4,414.1L422.7,424.4L443,422.1L463.2,438.2L483.5,442.8L503.8,442.8L524.1,424.4L544.3,430.2L564.6,373.8L584.9,421L605.2,441.7L625.4,433.6L645.7,322L666,421" />
+    <circle class="dot live" cx="666" cy="421" r="5" />
+    <text x="78" y="474">Aug 31</text>
+    <text class="end" x="666" y="474">Sep 29</text>
+  </g>
+  <g class="rise" id="languages" style="animation-delay:0.5s">
+    <rect class="card" x="708" y="256" width="440" height="232" rx="14" />
+    <text class="acc" x="732" y="290">LANGUAGES / % OF REPOS</text>
+    <text class="txt" x="732" y="340">Jupyter Notebook</text>
+    <rect class="track" x="902" y="329" width="162" height="10" rx="5" />
+    <rect class="bar" style="animation-delay:0.55s" x="902" y="329" width="69.7" height="10" rx="5" fill="url(#bar)" />
+    <text class="end" x="1124" y="340">43%</text>
+    <text class="txt" x="732" y="374">Python</text>
+    <rect class="track" x="902" y="363" width="162" height="10" rx="5" />
+    <rect class="bar" style="animation-delay:0.63s" x="902" y="363" width="58.3" height="10" rx="5" fill="url(#bar)" />
+    <text class="end" x="1124" y="374">36%</text>
+    <text class="txt" x="732" y="408">TypeScript</text>
+    <rect class="track" x="902" y="397" width="162" height="10" rx="5" />
+    <rect class="bar" style="animation-delay:0.71s" x="902" y="397" width="58.3" height="10" rx="5" fill="url(#bar)" />
+    <text class="end" x="1124" y="408">36%</text>
+    <text class="txt" x="732" y="442">CSS</text>
+    <rect class="track" x="902" y="431" width="162" height="10" rx="5" />
+    <rect class="bar" style="animation-delay:0.79s" x="902" y="431" width="34" height="10" rx="5" fill="url(#bar)" />
+    <text class="end" x="1124" y="442">21%</text>
+    <text class="txt" x="732" y="476">JavaScript</text>
+    <rect class="track" x="902" y="465" width="162" height="10" rx="5" />
+    <rect class="bar" style="animation-delay:0.87s" x="902" y="465" width="34" height="10" rx="5" fill="url(#bar)" />
+    <text class="end" x="1124" y="476">21%</text>
+  </g>
 </svg>
