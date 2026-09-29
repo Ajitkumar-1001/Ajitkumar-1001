@@ -56,7 +56,7 @@ then redesign them so those limits move.
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajitkumar-1001&theme=blue_navy&hide_border=true)
+<img src="./assets/live/telemetry.svg" width="950" alt="Live GitHub telemetry: contributions, current and longest streak, commits, pull requests, 30-day activity and top languages"/>
 
 </div>
 

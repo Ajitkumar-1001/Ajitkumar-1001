@@ -1,0 +1,66 @@
+name: Live Profile
+
+# Regenerates assets/live/telemetry.svg from the GitHub API so the README never depends on a
+# third-party stat host. If the API ever fails the job goes red and the last good SVG stays up.
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # every 3h; off the top of the hour, when scheduled runs queue up
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
+    paths:
+      - ".github/scripts/live_profile.py"
+      - ".github/workflows/live-profile.yml"
+  pull_request:                # dry run: renders and self-tests, never commits
+    paths:
+      - ".github/scripts/live_profile.py"
+      - ".github/workflows/live-profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-profile-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Self-test
+        run: python3 .github/scripts/live_profile.py --selftest
+
+      - name: Render telemetry from the GitHub API
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: Ajitkumar-1001
+        run: python3 .github/scripts/live_profile.py
+
+      - name: Upload the rendered SVG (PR dry run)
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: telemetry-preview
+          path: assets/live/telemetry.svg
+          retention-days: 7
+
+      - name: Commit if changed
+        if: github.ref == 'refs/heads/main'   # never push from a PR or a dispatch on another branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/live
+          if git diff --cached --quiet; then echo "No changes to commit."; exit 0; fi
+          git commit -m "chore(live): refresh GitHub telemetry [skip ci]"
+          # the metrics and 3D-contrib bots also push to main; rebase over them instead of failing
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((i * 5))
+          done
+          echo "::error::could not push after 3 attempts"
+          exit 1
