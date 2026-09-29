@@ -222,7 +222,7 @@ def tile(parent: ET.Element, i: int, x: int, y: int, w: int, h: int, label: str,
 
 
 def activity(parent: ET.Element, x: int, y: int, w: int, h: int, days: list[tuple[date, int]]) -> None:
-    g = E("g", parent, id="activity", cls="rise", style="animation-delay:.4s")
+    g = E("g", parent, id="activity", cls="rise", style="animation-delay:0.4s")
     card(g, x, y, w, h)
     last = days[-30:]
     vals = [n for _, n in last]
@@ -243,7 +243,7 @@ def activity(parent: ET.Element, x: int, y: int, w: int, h: int, days: list[tupl
 
 
 def languages(parent: ET.Element, x: int, y: int, w: int, h: int, langs: list[tuple[str, int]]) -> None:
-    g = E("g", parent, id="languages", cls="rise", style="animation-delay:.5s")
+    g = E("g", parent, id="languages", cls="rise", style="animation-delay:0.5s")
     card(g, x, y, w, h)
     txt(g, x + 24, y + 34, "LANGUAGES / % OF REPOS", "acc")
     name_w, pct_w = 170, 52
