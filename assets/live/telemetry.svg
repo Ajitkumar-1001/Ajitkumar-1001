@@ -52,7 +52,7 @@
   <g id="header">
     <text class="txt" x="28" y="40" font-size="22">Live Telemetry<tspan class="mut" font-size="16" dx="14">/ last 12 months</tspan></text>
     <circle class="dot live" cx="999.3" cy="34" r="4" />
-    <text class="end" x="1172" y="40">SYNC: 2026-11-24</text>
+    <text class="end" x="1172" y="40">SYNC: 2026-11-25</text>
     <line class="rule" x1="28" x2="1172" y1="60" y2="60" />
   </g>
   <rect class="card" x="28" y="90" width="1144" height="420" rx="18" />
@@ -82,7 +82,7 @@
       <rect class="card" x="607" y="118" width="169" height="116" rx="12" />
       <text x="621" y="148">ACTIVE DAYS</text>
       <text class="num" x="621" y="196" font-size="46" filter="url(#glow)">281</text>
-      <text class="acc" x="621" y="219">of 367 days</text>
+      <text class="acc" x="621" y="219">of 368 days</text>
     </g>
     <g class="rise" style="animation-delay:0.24s">
       <rect class="card" x="792" y="118" width="169" height="116" rx="12" />
@@ -100,15 +100,15 @@
   <g class="rise" id="activity" style="animation-delay:0.4s">
     <rect class="card" x="52" y="256" width="640" height="232" rx="14" />
     <text class="acc" x="78" y="290">ACTIVITY / LAST 30 DAYS</text>
-    <text class="end" x="666" y="290">PEAK 61</text>
+    <text class="end" x="666" y="290">PEAK 31</text>
     <line class="grid" x1="78" x2="666" y1="322" y2="322" />
     <line class="grid" x1="78" x2="666" y1="383" y2="383" />
     <line class="grid" x1="78" x2="666" y1="444" y2="444" />
-    <path fill="url(#area)" d="M78,322L98.3,438L118.6,442L138.8,412L159.1,438L179.4,438L199.7,422L219.9,442L240.2,442L260.5,416L280.8,438L301,434L321.3,438L341.6,442L361.9,382L382.1,408L402.4,408L422.7,432L443,434L463.2,430L483.5,430L503.8,416L524.1,442L544.3,440L564.6,442L584.9,392L605.2,392L625.4,436L645.7,434L666,432L666,444L78,444Z" />
-    <path class="trend draw" pathLength="1" d="M78,322L98.3,438L118.6,442L138.8,412L159.1,438L179.4,438L199.7,422L219.9,442L240.2,442L260.5,416L280.8,438L301,434L321.3,438L341.6,442L361.9,382L382.1,408L402.4,408L422.7,432L443,434L463.2,430L483.5,430L503.8,416L524.1,442L544.3,440L564.6,442L584.9,392L605.2,392L625.4,436L645.7,434L666,432" />
-    <circle class="dot live" cx="666" cy="432" r="5" />
-    <text x="78" y="474">Oct 26</text>
-    <text class="end" x="666" y="474">Nov 24</text>
+    <path fill="url(#area)" d="M78,432.2L98.3,440.1L118.6,381L138.8,432.2L159.1,432.2L179.4,400.7L199.7,440.1L219.9,440.1L240.2,388.9L260.5,432.2L280.8,424.3L301,432.2L321.3,440.1L341.6,322L361.9,373.2L382.1,373.2L402.4,420.4L422.7,424.3L443,416.5L463.2,416.5L483.5,388.9L503.8,440.1L524.1,436.1L544.3,440.1L564.6,341.7L584.9,341.7L605.2,428.3L625.4,424.3L645.7,420.4L666,444L666,444L78,444Z" />
+    <path class="trend draw" pathLength="1" d="M78,432.2L98.3,440.1L118.6,381L138.8,432.2L159.1,432.2L179.4,400.7L199.7,440.1L219.9,440.1L240.2,388.9L260.5,432.2L280.8,424.3L301,432.2L321.3,440.1L341.6,322L361.9,373.2L382.1,373.2L402.4,420.4L422.7,424.3L443,416.5L463.2,416.5L483.5,388.9L503.8,440.1L524.1,436.1L544.3,440.1L564.6,341.7L584.9,341.7L605.2,428.3L625.4,424.3L645.7,420.4L666,444" />
+    <circle class="dot live" cx="666" cy="444" r="5" />
+    <text x="78" y="474">Oct 27</text>
+    <text class="end" x="666" y="474">Nov 25</text>
   </g>
   <g class="rise" id="languages" style="animation-delay:0.5s">
     <rect class="card" x="708" y="256" width="440" height="232" rx="14" />
